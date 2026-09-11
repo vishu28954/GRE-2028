@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#FFF3E0"/>
+  <rect x="45" y="40" width="1110" height="340" rx="28" fill="#FFFFFF" stroke="#E65100" stroke-width="4"/>
+  <text x="80" y="105" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#BF360C">CASTIGATE</text>
+  <text x="80" y="150" font-family="Arial, sans-serif" font-size="25" fill="#E65100">extremely harsh criticism</text>
+  <polygon points="160,315 225,190 290,315" fill="#FF7043" stroke="#BF360C" stroke-width="4"/>
+  <text x="180" y="350" font-family="Arial, sans-serif" font-size="24" fill="#333">fire of criticism</text>
+  <rect x="470" y="160" width="560" height="150" rx="18" fill="#FFE0B2"/>
+  <text x="510" y="210" font-family="Arial, sans-serif" font-size="31" fill="#BF360C">Editorial:</text>
+  <text x="510" y="252" font-family="Arial, sans-serif" font-size="27" fill="#333">“This failure is inexcusable.”</text>
+  <text x="510" y="292" font-family="Arial, sans-serif" font-size="25" fill="#333">severe, accusatory, unforgiving</text>
+</svg>
