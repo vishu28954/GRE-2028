@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#F4FBF2"/>
+  <rect x="45" y="40" width="1110" height="340" rx="28" fill="#FFFFFF" stroke="#2E7D32" stroke-width="4"/>
+  <text x="80" y="105" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#1B5E20">LAUD</text>
+  <text x="80" y="150" font-family="Arial, sans-serif" font-size="25" fill="#2E7D32">public high praise</text>
+  <rect x="495" y="245" width="210" height="55" rx="12" fill="#C8E6C9"/>
+  <rect x="535" y="165" width="130" height="90" rx="18" fill="#A5D6A7" stroke="#1B5E20" stroke-width="3"/>
+  <circle cx="600" cy="128" r="38" fill="#FFE0B2" stroke="#6D4C41" stroke-width="3"/>
+  <text x="558" y="183" font-family="Arial, sans-serif" font-size="22" fill="#1B5E20">Winner</text>
+  <text x="120" y="245" font-family="Arial, sans-serif" font-size="34" fill="#333">Audience: 👏 👏 👏</text>
+  <text x="760" y="210" font-family="Arial, sans-serif" font-size="31" fill="#333">Host:</text>
+  <text x="760" y="252" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#1B5E20">“Her work changed the field.”</text>
+  <text x="760" y="300" font-family="Arial, sans-serif" font-size="25" fill="#555">strong praise in front of everyone</text>
+</svg>
