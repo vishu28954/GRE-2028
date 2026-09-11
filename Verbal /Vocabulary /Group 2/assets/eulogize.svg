@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#F3E5F5"/>
+  <rect x="45" y="40" width="1110" height="340" rx="28" fill="#FFFFFF" stroke="#6A1B9A" stroke-width="4"/>
+  <text x="80" y="105" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#4A148C">EULOGIZE</text>
+  <text x="80" y="150" font-family="Arial, sans-serif" font-size="25" fill="#6A1B9A">formal high praise, often in a memorial speech</text>
+  <rect x="165" y="190" width="180" height="135" rx="14" fill="#E1BEE7" stroke="#4A148C" stroke-width="3"/>
+  <text x="205" y="255" font-family="Arial, sans-serif" font-size="29" fill="#4A148C">Podium</text>
+  <text x="500" y="205" font-family="Arial, sans-serif" font-size="31" fill="#333">“He shaped hundreds of lives.”</text>
+  <text x="500" y="255" font-family="Arial, sans-serif" font-size="31" fill="#333">“His generosity was legendary.”</text>
+  <text x="500" y="315" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#4A148C">a speech that praises character and legacy</text>
+</svg>
