@@ -2,38 +2,45 @@
 
 ## Theme: Praise, Criticism & Contempt
 
-Today’s goal is not to memorize 15 isolated definitions.
-
-The goal is to build a **mental network** around one emotional spectrum:
+Today’s 15 words are not random. They form one emotional ladder:
 
 ```text
-PRAISE  →  FORMAL APPROVAL  →  WARNING  →  SHARP CRITICISM  →  HARSH ATTACK  →  CONTEMPT
+PRAISE
+  ↓
+FORMAL APPROVAL / DISAPPROVAL
+  ↓
+CORRECTION
+  ↓
+HARSH CRITICISM
+  ↓
+BELITTLING
+  ↓
+MOCKERY
+  ↓
+CONTEMPT
+  ↓
+CHARACTER ATTACK
 ```
 
-GRE Verbal often tests whether you can detect the **tone** of a sentence. Two answer choices may both feel negative, but one may mean *gentle warning*, another may mean *formal disapproval*, and another may mean *extreme character attack*.
-
-So today, learn each word in two ways:
-
-```text
-1. Visual memory  →  what scene should come to mind?
-2. GRE function   →  where does the word sit on the praise–criticism scale?
-```
+The goal is not just to learn meanings. The goal is to build a **mental network connecting the words**.
 
 ---
 
 # 🟢 Cluster 1 — Praise
 
-These five words are positive, but they differ in intensity and setting.
-
 ```text
-COMMEND  →  LAUD  →  ACCLAIM  →  EXTOL  →  EULOGIZE
-measured     high      public      enthusiastic   formal speech
-approval     praise    recognition elaborate      of praise
+COMMEND   → measured / formal praise
+LAUD      → strong public praise
+ACCLAIM   → public recognition and praise
+EXTOL     → enthusiastic, elaborate praise
+EULOGIZE  → formal spoken praise
 ```
 
 ---
 
 # 1. Laud
+
+## Word
 
 **LAUD** *(verb)*
 
@@ -45,19 +52,34 @@ lawd
 
 ## English Meaning
 
-To praise someone or something highly, especially in a public or formal way.
+To praise someone or something highly, especially publicly or formally.
 
 ## Hindi Meaning
 
+```text
 बहुत प्रशंसा करना / सार्वजनिक रूप से सराहना करना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Laud Visual Memory](assets/laud.svg)
+### Visual Card Brief
 
-Imagine a scientist standing on a stage after developing an important medical test. The audience is applauding, the host is listing her achievements, and everyone is openly recognizing her contribution.
+A scientist stands on a grand award stage holding a trophy. A host at the podium is praising her discovery while a large audience gives a standing ovation.
 
-> Host: “Her work has changed what is possible in affordable diagnostics.”
+```text
+🏆 Award stage
+🎤 Host praising publicly
+👏 Audience applauding
+🌟 Respect + recognition
+```
+
+### Scene
+
+The host says:
+
+> “Her discovery has changed the direction of modern medicine.”
+
+The audience rises and claps.
 
 That is **LAUD**.
 
@@ -67,15 +89,16 @@ That is **LAUD**.
 Laud → loud praise
 ```
 
-When praise is strong, respectful, and public, imagine it being spoken **loudly** in front of an audience.
+The praise is so public and strong that it feels “loud.”
 
-## GRE Synonyms
+## Synonyms
 
 ```text
 praise
 commend
 acclaim
 extol
+applaud
 ```
 
 ## Antonyms
@@ -84,19 +107,28 @@ extol
 criticize
 condemn
 censure
+denounce
 ```
 
 ## Usage Paragraph
 
-The committee **lauded** the researcher for designing an inexpensive diagnostic tool. Senior scientists praised both the originality of her method and its social impact. The recognition was not casual; it was public, formal, and deeply respectful.
+The committee **lauded** the researcher for developing an inexpensive diagnostic test. Senior scientists praised both the originality of her work and its practical value. Her achievement was not merely acknowledged; it was publicly celebrated.
 
 ## GRE Connections / Distinctions
 
-**Laud** is stronger than ordinary praise. It often appears when the sentence suggests public recognition or formal approval. In Sentence Equivalence, it can pair with **extol** or **acclaim**, depending on the context.
+```text
+Laud = strong public praise
+```
+
+**Commend** is formal and measured.  
+**Laud** is stronger and more public.  
+**Extol** is more enthusiastic and elaborate.
 
 ---
 
 # 2. Extol
+
+## Word
 
 **EXTOL** *(verb)*
 
@@ -108,24 +140,36 @@ ik-STOHL
 
 ## English Meaning
 
-To praise someone or something enthusiastically and often at length.
+To praise someone or something very enthusiastically, often at length.
 
 ## Hindi Meaning
 
+```text
 बहुत बढ़-चढ़कर प्रशंसा करना / गुणगान करना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Extol Visual Memory](assets/extol.svg)
+### Visual Card Brief
 
-Imagine your friend returns from a Japan trip and cannot stop praising it.
+A travel writer stands before a projector showing a mountain village. She is animatedly praising the village: its sunrise, food, people, houses, and peaceful atmosphere.
 
-> “The trains were perfect.”  
-> “The food was unbelievable.”  
-> “Kyoto was magical.”  
-> “Tokyo was the best city I have ever seen.”
+```text
+🗻 Beautiful village
+✍️ Writer praising every detail
+✨ Glowing language
+🗣️ Long enthusiastic admiration
+```
 
-He is not giving one compliment. He is pouring out praise again and again. That is **EXTOL**.
+### Scene
+
+She says:
+
+> “The sunrise was magical, the people were kind, the architecture was timeless, and even the silence felt beautiful.”
+
+She is not giving one compliment. She is praising endlessly.
+
+That is **EXTOL**.
 
 ## Memory Hook
 
@@ -133,13 +177,14 @@ He is not giving one compliment. He is pouring out praise again and again. That 
 EXTOL → EXTreme praise
 ```
 
-## GRE Synonyms
+## Synonyms
 
 ```text
 laud
+praise
 glorify
 exalt
-praise enthusiastically
+celebrate
 ```
 
 ## Antonyms
@@ -153,20 +198,32 @@ criticize
 
 ## Usage Paragraph
 
-The travel writer **extolled** the beauty of the mountain village, describing its landscape, architecture, food, and hospitality in glowing detail. Her admiration filled nearly every paragraph. The village was not merely recommended; it was celebrated with intense enthusiasm.
+The travel writer **extolled** the beauty of the mountain village in her article. She praised its peaceful atmosphere, traditional architecture, and warm hospitality in glowing language. By the end of the essay, readers could clearly sense her deep admiration for the place.
 
 ## GRE Connections / Distinctions
 
-**Extol** is more enthusiastic than **commend**. If someone praises something with energy and elaboration, **extol** is more precise than simple “praise.”
+```text
+Extol = enthusiastic, elaborate praise
+```
+
+GRE pair:
 
 ```text
-Commend = controlled approval
-Extol   = enthusiastic praise
+LAUD ≈ EXTOL
+```
+
+But:
+
+```text
+Laud  → public high praise
+Extol → enthusiastic, detailed praise
 ```
 
 ---
 
 # 3. Acclaim
+
+## Word
 
 **ACCLAIM** *(verb / noun)*
 
@@ -178,23 +235,36 @@ uh-KLAYM
 
 ## English Meaning
 
-To praise enthusiastically and publicly; as a noun, public praise or recognition.
+To praise enthusiastically and publicly; public praise or approval.
 
 ## Hindi Meaning
 
+```text
 सार्वजनिक प्रशंसा / जोरदार सराहना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Acclaim Visual Memory](assets/acclaim.svg)
+### Visual Card Brief
 
-Imagine a film premiere. The movie ends, critics stand up, the audience claps, and newspapers publish glowing reviews the next morning.
+A movie premiere ends. Critics stand and applaud. The next morning, newspapers show five-star reviews and headlines calling the film a masterpiece.
 
-> “A masterpiece.”  
-> “The film of the year.”  
-> “A stunning achievement.”
+```text
+🎬 Film premiere
+👏 Standing ovation
+📰 Glowing reviews
+⭐ Public approval
+```
 
-The movie receives **ACCLAIM**.
+### Scene
+
+A critic writes:
+
+> “A rare masterpiece — bold, moving, and unforgettable.”
+
+The film receives public recognition.
+
+That is **ACCLAIM**.
 
 ## Memory Hook
 
@@ -202,13 +272,14 @@ The movie receives **ACCLAIM**.
 Acclaim = applause + claim of excellence
 ```
 
-## GRE Synonyms
+## Synonyms
 
 ```text
+praise
 laud
 applaud
 celebrate
-praise publicly
+commend
 ```
 
 ## Antonyms
@@ -217,23 +288,30 @@ praise publicly
 condemn
 criticize
 denounce
+censure
 ```
 
 ## Usage Paragraph
 
-The novelist’s first book was **acclaimed** by critics for its unusual structure and emotional depth. Within months, it had received awards and glowing reviews from major literary journals. Despite the widespread **acclaim**, the author remained modest.
+The novelist’s first book was **acclaimed** by critics for its unusual structure and emotional depth. Within a few months, it had received several awards and widespread media attention. The author, however, remained modest despite the enormous **acclaim**.
 
 ## GRE Connections / Distinctions
 
-The phrase **critically acclaimed** is common. **Acclaim** almost always carries a sense of public recognition, so it is stronger and more public than private approval.
+Common GRE-style phrase:
 
 ```text
-Acclaim = public praise + recognition
+critically acclaimed
+widely acclaimed
+international acclaim
 ```
+
+**Acclaim** strongly suggests **public recognition**, not private approval.
 
 ---
 
 # 4. Commend
+
+## Word
 
 **COMMEND** *(verb)*
 
@@ -245,21 +323,34 @@ kuh-MEND
 
 ## English Meaning
 
-To praise formally or express approval of someone’s action or behavior.
+To praise formally or express approval of someone’s action, conduct, or quality.
 
 ## Hindi Meaning
 
+```text
 सराहना करना / प्रशंसा करना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Commend Visual Memory](assets/commend.svg)
+### Visual Card Brief
 
-Imagine a manager shaking an employee’s hand after a difficult client meeting.
+A manager shakes hands with an employee after a successful presentation. The room is calm and professional. The praise is warm but controlled.
 
-> Manager: “You handled that situation very professionally.”
+```text
+🤝 Manager handshake
+📊 Successful presentation
+✅ Formal approval
+🙂 Measured praise
+```
 
-The praise is respectful and clear, but not dramatic. That is **COMMEND**.
+### Scene
+
+The manager says:
+
+> “You handled that situation professionally. Well done.”
+
+That is **COMMEND**.
 
 ## Memory Hook
 
@@ -269,11 +360,12 @@ Commend → commendation
 
 A **commendation** is an official expression of praise.
 
-## GRE Synonyms
+## Synonyms
 
 ```text
 praise
 compliment
+applaud
 approve
 laud
 ```
@@ -289,22 +381,27 @@ censure
 
 ## Usage Paragraph
 
-The director **commended** the team for completing the project ahead of schedule without reducing quality. She specifically praised their coordination, discipline, and attention to detail. Her tone was appreciative, formal, and measured.
+The director **commended** the team for completing the project ahead of schedule. She especially appreciated their professionalism and attention to detail. Her remarks were warm and respectful, but not exaggerated.
 
 ## GRE Connections / Distinctions
 
-**Commend** is milder than **extol** or **laud**. It is often used when someone deserves recognition for good conduct, service, or performance.
-
 ```text
 Commend = formal approval
-Censure = formal disapproval
 ```
 
-This opposite pair is very important for GRE.
+Important contrast:
+
+```text
+Commend → measured praise
+Laud    → strong public praise
+Extol   → enthusiastic praise
+```
 
 ---
 
 # 5. Eulogize
+
+## Word
 
 **EULOGIZE** *(verb)*
 
@@ -316,21 +413,34 @@ YOO-luh-jyz
 
 ## English Meaning
 
-To praise someone highly in a formal speech; often used when speaking at a memorial.
+To praise someone highly in a formal speech, often at a memorial or ceremonial occasion.
 
 ## Hindi Meaning
 
-गुणगान करना / श्रद्धांजलि देते हुए प्रशंसा करना
+```text
+गुणगान करना / श्रद्धांजलि में प्रशंसा करना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Eulogize Visual Memory](assets/eulogize.svg)
+### Visual Card Brief
 
-Imagine a memorial service. A former student stands at a podium and speaks about a professor who shaped many lives.
+A former student stands at a podium during a memorial service. A photograph of a professor is placed nearby. The audience listens quietly and emotionally.
 
-> “He was demanding, but he was also generous. He gave his students courage when they had none.”
+```text
+🎙️ Podium speech
+🕯️ Memorial setting
+👨‍🏫 Honoring a professor
+💭 Respectful remembrance
+```
 
-That formal speech of praise is **EULOGIZING**.
+### Scene
+
+The student says:
+
+> “He was demanding, but he changed the lives of every student he mentored.”
+
+That is **EULOGIZE**.
 
 ## Memory Hook
 
@@ -338,259 +448,62 @@ That formal speech of praise is **EULOGIZING**.
 Eulogy → Eulogize
 ```
 
-A **eulogy** is a formal speech of praise, especially after someone’s death.
+A **eulogy** is a formal speech of praise.
 
-## GRE Synonyms
+## Synonyms
 
 ```text
 praise
 extol
 celebrate
 glorify
+honor
 ```
 
 ## Antonyms
 
 ```text
-criticize
-denigrate
 vilify
+denigrate
+criticize
+condemn
 ```
 
 ## Usage Paragraph
 
-At the memorial, several former students **eulogized** the professor as a brilliant scientist and a generous mentor. They recalled how he challenged them intellectually while supporting them personally. Their speeches praised not only his achievements but also his character.
+At the memorial service, several former students **eulogized** the professor as a demanding but deeply generous mentor. They recalled his intellectual rigor, his personal kindness, and the patience with which he guided them through difficult moments. Their speeches honored both his achievements and his character.
 
 ## GRE Connections / Distinctions
 
-Do not memorize **eulogize** as only “praise a dead person.” That is a common context, but the deeper meaning is **formal high praise**, usually in speech.
+Wrong narrow meaning:
 
 ```text
-Eulogize = formal speech of praise
-Vilify   = extreme negative portrayal
+Eulogize = praise a dead person
+```
+
+Better GRE meaning:
+
+```text
+Eulogize = praise highly in a formal speech
 ```
 
 ---
 
 # 🔴 Cluster 2 — Criticism and Disapproval
 
-Now we move from praise to criticism.
-
-These words are not identical. The GRE can easily trap you if you treat all of them as “criticize.”
-
 ```text
-ADMONISH  →  REPROACH  →  REBUKE  →  CENSURE  →  CASTIGATE
-warning      disappointed sharp       formal      extremely harsh
-+ correction criticism    disapproval disapproval criticism
+ADMONISH  → warn / correct
+REPROACH  → criticize with disappointment
+REBUKE    → sharply disapprove
+CENSURE   → formally disapprove
+CASTIGATE → criticize very harshly
 ```
 
 ---
 
-# 6. Censure
+# 6. Admonish
 
-**CENSURE** *(verb / noun)*
-
-## Pronunciation
-
-```text
-SEN-shur
-```
-
-## English Meaning
-
-To express strong formal disapproval.
-
-## Hindi Meaning
-
-कड़ी औपचारिक निंदा करना
-
-## 🧠 Visual Memory
-
-![Censure Visual Memory](assets/censure.svg)
-
-Imagine an ethics board investigating a senior official. After reviewing the evidence, the board releases a formal statement.
-
-> “The member’s conduct violated professional standards.”
-
-This is not gossip. This is not casual criticism. It is official disapproval. That is **CENSURE**.
-
-## Memory Hook
-
-```text
-Censure = serious official criticism
-```
-
-## GRE Synonyms
-
-```text
-condemn
-reprimand
-rebuke
-denounce
-```
-
-## Antonyms
-
-```text
-commend
-praise
-approve
-laud
-```
-
-## Usage Paragraph
-
-The board **censured** the executive for failing to disclose a conflict of interest. Although he was not removed from his position, the formal statement made clear that his behavior was unacceptable. The **censure** damaged his credibility within the organization.
-
-## GRE Connections / Distinctions
-
-**Censure** has an official or formal tone. It is stronger than casual criticism but not necessarily as emotionally explosive as **castigate**.
-
-```text
-Commend = formal praise
-Censure = formal disapproval
-```
-
----
-
-# 7. Castigate
-
-**CASTIGATE** *(verb)*
-
-## Pronunciation
-
-```text
-KAS-tuh-gayt
-```
-
-## English Meaning
-
-To criticize or reprimand someone very severely.
-
-## Hindi Meaning
-
-बहुत कठोर आलोचना करना / बुरी तरह फटकारना
-
-## 🧠 Visual Memory
-
-![Castigate Visual Memory](assets/castigate.svg)
-
-Imagine a newspaper editorial after a bridge collapses because officials ignored repeated warnings.
-
-> “This was not an accident. It was negligence. It was unforgivable.”
-
-The tone is furious, severe, and accusatory. That is **CASTIGATE**.
-
-## Memory Hook
-
-```text
-Castigate → catastrophic criticism
-```
-
-## GRE Synonyms
-
-```text
-berate
-lambaste
-excoriate
-severely condemn
-```
-
-## Antonyms
-
-```text
-praise
-commend
-applaud
-laud
-```
-
-## Usage Paragraph
-
-The editorial **castigated** the government for ignoring repeated warnings about the unsafe bridge. The writers did not describe the collapse as a simple mistake; they portrayed it as the predictable result of negligence. Their language was severe, angry, and unforgiving.
-
-## GRE Connections / Distinctions
-
-**Castigate** is an intensity word. It is much stronger than **admonish** or **rebuke**.
-
-```text
-Admonish = warn/correct
-Rebuke   = sharply criticize
-Castigate = severely attack
-```
-
-If the sentence has a mild tone, **castigate** is too strong.
-
----
-
-# 8. Rebuke
-
-**REBUKE** *(verb / noun)*
-
-## Pronunciation
-
-```text
-ree-BYOOK
-```
-
-## English Meaning
-
-To express sharp disapproval of someone’s behavior.
-
-## Hindi Meaning
-
-डाँटना / कड़ी फटकार लगाना
-
-## 🧠 Visual Memory
-
-![Rebuke Visual Memory](assets/rebuke.svg)
-
-Imagine a student repeatedly interrupting a professor during class. After several interruptions, the professor stops and says:
-
-> “That is enough. Stop interrupting other people.”
-
-The correction is direct, sharp, and public. That is a **REBUKE**.
-
-## Memory Hook
-
-```text
-Rebuke = sharp verbal push-back
-```
-
-## GRE Synonyms
-
-```text
-reprimand
-scold
-admonish
-reproach
-```
-
-## Antonyms
-
-```text
-praise
-approve
-commend
-encourage
-```
-
-## Usage Paragraph
-
-The chairperson **rebuked** the member for repeatedly interrupting the discussion. Her words were brief, but the disapproval was unmistakable. The room became quiet because everyone understood that the behavior had crossed a line.
-
-## GRE Connections / Distinctions
-
-**Rebuke** is sharper than **admonish** but usually less extreme than **castigate**.
-
-```text
-Admonish = warning + correction
-Rebuke   = sharp disapproval
-```
-
----
-
-# 9. Admonish
+## Word
 
 **ADMONISH** *(verb)*
 
@@ -602,21 +515,34 @@ ad-MON-ish
 
 ## English Meaning
 
-To warn or mildly reprimand someone, often with the aim of correcting behavior.
+To warn or mildly reprimand someone, usually to correct behavior.
 
 ## Hindi Meaning
 
+```text
 चेतावनी देना / समझाते हुए डाँटना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Admonish Visual Memory](assets/admonish.svg)
+### Visual Card Brief
 
-Imagine a parent firmly telling a child not to run across a busy road.
+A parent kneels beside a child near a busy road. The parent looks serious but caring, warning the child not to run into traffic again.
 
-> “Don’t do that again. You could get seriously hurt.”
+```text
+👩 Parent
+🚗 Busy road
+☝️ Warning gesture
+❤️ Correction with care
+```
 
-The parent is not merely angry. The purpose is correction and protection. That is **ADMONISH**.
+### Scene
+
+The parent says:
+
+> “Never run across the road like that again. You could get badly hurt.”
+
+That is **ADMONISH**.
 
 ## Memory Hook
 
@@ -624,40 +550,42 @@ The parent is not merely angry. The purpose is correction and protection. That i
 Admonish = advise + warn
 ```
 
-## GRE Synonyms
+## Synonyms
 
 ```text
 warn
 caution
 reprimand
 counsel
+chide
 ```
 
 ## Antonyms
 
 ```text
-encourage
 praise
+encourage
 approve
 commend
 ```
 
 ## Usage Paragraph
 
-The supervisor **admonished** the intern for arriving late three times in one week. She explained that punctuality affected the entire team’s schedule and warned him not to repeat the mistake. Her tone was firm, but the goal was improvement rather than humiliation.
+The supervisor **admonished** the intern for repeatedly arriving late but also explained how punctuality affected the entire team. Rather than humiliating him, she treated the conversation as a warning and a chance to correct his behavior. Her tone was firm but not cruel.
 
 ## GRE Connections / Distinctions
 
-**Admonish** often contains advice or warning. GRE may use it in contexts where a teacher, parent, mentor, or supervisor corrects someone.
-
 ```text
-Admonish = correction with warning
-Castigate = severe attack
+Admonish = warning + correction
 ```
+
+It is usually less harsh than **rebuke** and much less harsh than **castigate**.
 
 ---
 
-# 10. Reproach
+# 7. Reproach
+
+## Word
 
 **REPROACH** *(verb / noun)*
 
@@ -673,17 +601,30 @@ To criticize someone with disappointment or moral disapproval.
 
 ## Hindi Meaning
 
+```text
 उलाहना देना / निराशा के साथ आलोचना करना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Reproach Visual Memory](assets/reproach.svg)
+### Visual Card Brief
 
-Imagine a close friend finding out that you broke an important promise.
+A close friend sits across from another friend who has broken a promise. The disappointed friend is not shouting but looks deeply hurt.
+
+```text
+😔 Disappointed friend
+💔 Broken promise
+🗣️ Quiet criticism
+⚖️ Moral expectation
+```
+
+### Scene
+
+The friend says:
 
 > “I expected better from you.”
 
-The feeling is not just anger. It is disappointment. That disappointed criticism is **REPROACH**.
+That is **REPROACH**.
 
 ## Memory Hook
 
@@ -691,13 +632,14 @@ The feeling is not just anger. It is disappointment. That disappointed criticism
 Reproach = disappointment + criticism
 ```
 
-## GRE Synonyms
+## Synonyms
 
 ```text
 rebuke
 blame
 chide
 criticize
+reprimand
 ```
 
 ## Antonyms
@@ -711,33 +653,296 @@ commend
 
 ## Usage Paragraph
 
-She **reproached** her colleague for taking credit for work the entire team had completed. Her tone conveyed disappointment as much as anger because she had trusted him to behave fairly. The criticism felt personal because he had failed to meet a moral expectation.
+She **reproached** her colleague for taking credit for work that the entire team had completed. Her tone conveyed disappointment as much as anger because she had trusted him to behave fairly. The criticism felt personal rather than merely procedural.
 
 ## GRE Connections / Distinctions
 
-**Reproach** often carries emotional disappointment. It can be quiet but heavy.
+```text
+Reproach = emotionally disappointed criticism
+```
+
+It can be quiet, but emotionally heavy.
+
+Compare:
 
 ```text
-Rebuke   = sharp correction
-Reproach = disappointed criticism
+Admonish → “Do not do this again.”
+Reproach → “I expected better from you.”
+Rebuke   → “That was unacceptable.”
 ```
 
 ---
 
-# 🟣 Cluster 3 — Belittling, Mockery and Contempt
+# 8. Rebuke
 
-These words go beyond criticism.
+## Word
 
-Now the speaker is trying to reduce someone’s value, mock them, treat them with contempt, or attack their character.
+**REBUKE** *(verb / noun)*
+
+## Pronunciation
 
 ```text
-DISPARAGE  →  DENIGRATE  →  DERIDE  →  SCORN  →  VILIFY
-belittle      damage worth   mock       contempt  make villain
+ree-BYOOK
+```
+
+## English Meaning
+
+To express sharp disapproval of someone’s behavior.
+
+## Hindi Meaning
+
+```text
+डाँटना / कड़ी फटकार लगाना
+```
+
+## 🧠 Visual Association
+
+### Visual Card Brief
+
+A teacher stands at the front of a classroom, sternly stopping a student who keeps interrupting others. The class becomes silent.
+
+```text
+👩‍🏫 Teacher
+🗣️ Interrupting student
+✋ Sharp stop
+😶 Silent classroom
+```
+
+### Scene
+
+The teacher says:
+
+> “That is enough. Stop interrupting others.”
+
+That is **REBUKE**.
+
+## Memory Hook
+
+```text
+Rebuke = sharp verbal push-back
+```
+
+## Synonyms
+
+```text
+reprimand
+scold
+admonish
+reproach
+chide
+```
+
+## Antonyms
+
+```text
+praise
+approve
+encourage
+commend
+```
+
+## Usage Paragraph
+
+The chairperson **rebuked** the member for repeatedly interrupting the discussion. Her response was brief but unmistakably severe, and the room immediately became quiet. The **rebuke** targeted his inappropriate conduct rather than his entire character.
+
+## GRE Connections / Distinctions
+
+```text
+Rebuke = sharp direct disapproval
+```
+
+It is stronger than **admonish**, but not necessarily as formal as **censure** or as severe as **castigate**.
+
+---
+
+# 9. Censure
+
+## Word
+
+**CENSURE** *(verb / noun)*
+
+## Pronunciation
+
+```text
+SEN-shur
+```
+
+## English Meaning
+
+To express strong formal disapproval.
+
+## Hindi Meaning
+
+```text
+कड़ी औपचारिक निंदा करना
+```
+
+## 🧠 Visual Association
+
+### Visual Card Brief
+
+An ethics board sits behind a long table. A formal document is being read aloud condemning a member’s misconduct.
+
+```text
+⚖️ Ethics board
+📄 Official statement
+🚫 Formal disapproval
+😐 Serious institutional tone
+```
+
+### Scene
+
+The chairperson says:
+
+> “The board formally condemns this conduct.”
+
+That is **CENSURE**.
+
+## Memory Hook
+
+```text
+Censure = serious official criticism
+```
+
+## Synonyms
+
+```text
+condemn
+reprimand
+rebuke
+denounce
+criticize formally
+```
+
+## Antonyms
+
+```text
+commend
+praise
+approve
+laud
+```
+
+## Usage Paragraph
+
+The board **censured** the executive for failing to disclose a conflict of interest. Although he was not removed from his position, the formal statement made clear that his conduct was unacceptable. The **censure** damaged his professional reputation.
+
+## GRE Connections / Distinctions
+
+Important opposite pair:
+
+```text
+COMMEND
+=
+formal praise
+
+CENSURE
+=
+formal disapproval
+```
+
+**Censure** usually feels official or institutional.
+
+---
+
+# 10. Castigate
+
+## Word
+
+**CASTIGATE** *(verb)*
+
+## Pronunciation
+
+```text
+KAS-tuh-gayt
+```
+
+## English Meaning
+
+To criticize or reprimand someone very severely.
+
+## Hindi Meaning
+
+```text
+बहुत कठोर आलोचना करना / बुरी तरह फटकारना
+```
+
+## 🧠 Visual Association
+
+### Visual Card Brief
+
+A furious newspaper editorial appears after a bridge collapse. The headline accuses officials of negligence, and the article attacks them line after line.
+
+```text
+📰 Furious editorial
+🔥 Severe criticism
+⚠️ Public failure
+😡 Accusatory tone
+```
+
+### Scene
+
+The headline reads:
+
+> “OFFICIAL NEGLIGENCE IS INEXCUSABLE.”
+
+That is **CASTIGATE**.
+
+## Memory Hook
+
+```text
+Castigate → catastrophic criticism
+```
+
+## Synonyms
+
+```text
+berate
+lambaste
+excoriate
+condemn
+reprimand harshly
+```
+
+## Antonyms
+
+```text
+praise
+commend
+applaud
+laud
+```
+
+## Usage Paragraph
+
+The editorial **castigated** the government for ignoring repeated warnings about the unsafe bridge. The writers did not treat the collapse as a minor administrative failure; they described it as evidence of systematic negligence. The language was deliberately severe and accusatory.
+
+## GRE Connections / Distinctions
+
+```text
+Criticize = general disapproval
+Castigate = extremely harsh criticism
+```
+
+If the tone is mild or corrective, **castigate** is too strong.
+
+---
+
+# 🟣 Cluster 3 — Belittling, Mockery & Contempt
+
+```text
+DISPARAGE → reduce value
+DENIGRATE → damage reputation
+DERIDE    → mock / ridicule
+SCORN     → treat with contempt
+VILIFY    → portray as villainous
 ```
 
 ---
 
 # 11. Disparage
+
+## Word
 
 **DISPARAGE** *(verb)*
 
@@ -749,21 +954,34 @@ dih-SPAIR-ij
 
 ## English Meaning
 
-To speak about someone or something in a way that makes it seem less valuable, less important, or less worthy.
+To speak about someone or something in a way that makes it seem less valuable, important, or impressive.
 
 ## Hindi Meaning
 
+```text
 नीचा दिखाना / महत्व कम करके दिखाना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Disparage Visual Memory](assets/disparage.svg)
+### Visual Card Brief
 
-Imagine someone finishes a difficult project after weeks of work. Another person looks at it and says:
+A student presents an impressive project. Another student rolls his eyes and says it is nothing special, trying to make the achievement look small.
+
+```text
+📊 Impressive project
+🙄 Dismissive rival
+⬇️ Value being lowered
+🗣️ “Anyone could do that.”
+```
+
+### Scene
+
+The rival says:
 
 > “What is so special? Anyone could have done that.”
 
-The speaker is trying to reduce the value of the achievement. That is **DISPARAGE**.
+That is **DISPARAGE**.
 
 ## Memory Hook
 
@@ -771,13 +989,14 @@ The speaker is trying to reduce the value of the achievement. That is **DISPARAG
 Disparage = decrease apparent value
 ```
 
-## GRE Synonyms
+## Synonyms
 
 ```text
 belittle
 denigrate
 demean
 deprecate
+minimize
 ```
 
 ## Antonyms
@@ -791,21 +1010,27 @@ commend
 
 ## Usage Paragraph
 
-The critic **disparaged** the young artist’s paintings as fashionable imitations. Instead of examining the work seriously, he minimized its originality and technical skill. His comments were designed to lower the reader’s opinion of the artist.
+The critic **disparaged** the young artist’s work as little more than a fashionable imitation. Instead of seriously examining the paintings, he repeatedly minimized their originality and skill. His remarks were designed to lower readers’ estimation of the artist.
 
 ## GRE Connections / Distinctions
 
-**Disparage** does not mean simply disagree. It means to belittle or reduce perceived value.
-
 ```text
-Disparage ≈ Denigrate
+Disparage = belittle
 ```
 
-This is a strong Sentence Equivalence pair.
+It is not the same as simply disagreeing.
+
+GRE pair:
+
+```text
+DISPARAGE ≈ DENIGRATE
+```
 
 ---
 
 # 12. Denigrate
+
+## Word
 
 **DENIGRATE** *(verb)*
 
@@ -821,15 +1046,30 @@ To unfairly criticize or belittle someone’s reputation, worth, or achievements
 
 ## Hindi Meaning
 
+```text
 बदनाम करना / नीचा दिखाना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Denigrate Visual Memory](assets/denigrate.svg)
+### Visual Card Brief
 
-Imagine two candidates competing for a promotion. One candidate does not explain why he is good. Instead, he keeps saying that the other candidate’s achievements are insignificant.
+A candidate stands on stage while a rival tries to pull down a large glowing sign labeled “Reputation.” The rival is not improving himself; he is attacking the other person’s worth.
 
-He is trying to pull her reputation down. That is **DENIGRATE**.
+```text
+🧍 Competitor
+⬇️ Reputation dragged down
+🗣️ Unfair criticism
+⚫ Credibility attacked
+```
+
+### Scene
+
+The rival says:
+
+> “Her achievements are not as impressive as people think.”
+
+That is **DENIGRATE**.
 
 ## Memory Hook
 
@@ -837,13 +1077,14 @@ He is trying to pull her reputation down. That is **DENIGRATE**.
 Denigrate → drag reputation down
 ```
 
-## GRE Synonyms
+## Synonyms
 
 ```text
 disparage
 belittle
 demean
 defame
+malign
 ```
 
 ## Antonyms
@@ -857,20 +1098,22 @@ commend
 
 ## Usage Paragraph
 
-Rather than defend his proposal on its merits, the candidate tried to **denigrate** his opponent’s experience. He repeatedly suggested that her achievements were minor, even though the evidence showed otherwise. His strategy was to reduce her credibility instead of strengthening his own case.
+Rather than defend his own proposal on its merits, the candidate tried to **denigrate** his opponent’s experience. He repeatedly suggested that her achievements were insignificant, even though the evidence showed otherwise. His strategy focused on reducing her credibility rather than strengthening his own case.
 
 ## GRE Connections / Distinctions
 
-**Denigrate** often targets reputation or worth. Compared with **disparage**, it can feel more personal because it attacks credibility.
-
 ```text
-Disparage = belittle value
-Denigrate = belittle reputation/worth
+Denigrate = attack reputation or worth
 ```
+
+**Disparage** can target an idea, object, or achievement.  
+**Denigrate** often feels more reputation-focused.
 
 ---
 
 # 13. Deride
+
+## Word
 
 **DERIDE** *(verb)*
 
@@ -886,18 +1129,30 @@ To mock or ridicule someone or something contemptuously.
 
 ## Hindi Meaning
 
+```text
 मज़ाक उड़ाना / उपहास करना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Deride Visual Memory](assets/deride.svg)
+### Visual Card Brief
 
-Imagine an inventor presenting an unusual machine. Before testing it, the audience starts laughing.
+An inventor presents a strange machine. The audience points, laughs, and refuses to take the idea seriously.
 
-> “That is ridiculous.”  
-> “Who would ever believe this could work?”
+```text
+🔧 Strange invention
+😂 Laughing crowd
+👉 Pointing fingers
+🎭 Ridicule
+```
 
-They are not just criticizing the idea; they are mocking it. That is **DERIDE**.
+### Scene
+
+Someone in the audience says:
+
+> “That is the most ridiculous idea I have ever heard.”
+
+That is **DERIDE**.
 
 ## Memory Hook
 
@@ -905,15 +1160,14 @@ They are not just criticizing the idea; they are mocking it. That is **DERIDE**.
 Deride → ridicule
 ```
 
-Both words carry the idea of mockery.
-
-## GRE Synonyms
+## Synonyms
 
 ```text
 mock
 ridicule
 jeer at
 scoff at
+taunt
 ```
 
 ## Antonyms
@@ -927,20 +1181,21 @@ commend
 
 ## Usage Paragraph
 
-Many experts initially **derided** the inventor’s proposal as unrealistic and absurd. They joked about it in public forums rather than examining the evidence seriously. Years later, a successful prototype forced several of those critics to reconsider.
+Many experts initially **derided** the inventor’s proposal as unrealistic and absurd. They joked about it publicly instead of examining the evidence seriously. Years later, a successful prototype forced several critics to reconsider.
 
 ## GRE Connections / Distinctions
 
-**Deride** specifically involves mockery. If the sentence only suggests criticism without laughter, ridicule, or contemptuous joking, **deride** may not fit.
-
 ```text
-Disparage = belittle
-Deride    = mock
+Deride = mock with contempt
 ```
+
+Do not use **deride** for ordinary criticism. It specifically involves ridicule.
 
 ---
 
 # 14. Scorn
+
+## Word
 
 **SCORN** *(verb / noun)*
 
@@ -956,17 +1211,30 @@ To regard or treat someone or something with strong contempt.
 
 ## Hindi Meaning
 
+```text
 तिरस्कार करना / घृणा और उपेक्षा से देखना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Scorn Visual Memory](assets/scorn.svg)
+### Visual Card Brief
 
-Imagine someone looking at an offer, pushing it away, and saying:
+A wealthy aristocrat looks coldly at a simple gift, pushes it away, and says it is beneath him.
 
-> “That is beneath me.”
+```text
+😒 Cold expression
+✋ Rejected offer
+⬇️ “Beneath me”
+🧊 Silent contempt
+```
 
-The person may not shout. They may not even argue. But the contempt is obvious. That is **SCORN**.
+### Scene
+
+He says:
+
+> “I would never accept something so ordinary.”
+
+That is **SCORN**.
 
 ## Memory Hook
 
@@ -974,7 +1242,7 @@ The person may not shout. They may not even argue. But the contempt is obvious. 
 Scorn = contempt + rejection
 ```
 
-## GRE Synonyms
+## Synonyms
 
 ```text
 disdain
@@ -994,20 +1262,22 @@ value
 
 ## Usage Paragraph
 
-The scholar **scorned** sensational explanations that lacked evidence. He regarded such claims not merely as incorrect but as intellectually irresponsible. His contempt became obvious whenever the subject came up.
+The scholar **scorned** sensational explanations that lacked supporting evidence. He regarded such claims not merely as incorrect but as intellectually irresponsible. His contempt was obvious whenever the subject arose.
 
 ## GRE Connections / Distinctions
 
-**Scorn** is about contempt. It does not require long criticism or public mockery.
-
 ```text
-Deride = mock with laughter
-Scorn  = regard with contempt
+Scorn = contempt
 ```
+
+A person can **scorn** something silently.  
+Unlike **deride**, it does not require laughter or mockery.
 
 ---
 
 # 15. Vilify
+
+## Word
 
 **VILIFY** *(verb)*
 
@@ -1023,21 +1293,30 @@ To speak about someone in an extremely negative way and portray them as wicked, 
 
 ## Hindi Meaning
 
+```text
 किसी को बदनाम करना / किसी को दुष्ट या बहुत बुरा साबित करना
+```
 
-## 🧠 Visual Memory
+## 🧠 Visual Association
 
-![Vilify Visual Memory](assets/vilify.svg)
+### Visual Card Brief
 
-Imagine a political advertisement. It does not simply say:
+A political poster shows an opponent with dark shadows, red warning signs, and the word “DANGER” behind him. The poster is not criticizing policy; it is turning the person into a villain.
 
-> “My opponent’s policy is wrong.”
+```text
+👤 Opponent
+🌑 Dark shadows
+⚠️ Danger symbols
+👿 Made to look villainous
+```
 
-Instead, it says:
+### Scene
 
-> “This person is dangerous, corrupt, and wants to destroy society.”
+The poster says:
 
-That is not normal criticism. It is turning someone into a villain. That is **VILIFY**.
+> “This person is a threat to society.”
+
+That is **VILIFY**.
 
 ## Memory Hook
 
@@ -1045,15 +1324,16 @@ That is not normal criticism. It is turning someone into a villain. That is **VI
 Vilify → villain
 ```
 
-To vilify someone is to make them look like a villain.
+To **vilify** someone is to make them look like a villain.
 
-## GRE Synonyms
+## Synonyms
 
 ```text
 malign
 defame
 slander
 denounce
+demonize
 ```
 
 ## Antonyms
@@ -1067,295 +1347,326 @@ eulogize
 
 ## Usage Paragraph
 
-The pamphlet **vilified** the reformer as an enemy of society, attributing malicious motives to nearly everything he did. It did not merely criticize his policies; it attempted to destroy his character and reputation. This extreme portrayal made rational debate almost impossible.
+The pamphlet **vilified** the reformer as an enemy of society, attributing malicious motives to nearly everything he did. It did not merely criticize his proposals; it attempted to destroy his character and reputation. This extreme portrayal made rational debate nearly impossible.
 
 ## GRE Connections / Distinctions
 
-**Vilify** is stronger than **criticize**, **disparage**, or **denigrate**. It attacks character and portrays someone as morally bad.
+```text
+Vilify = extreme character attack
+```
+
+Compare:
 
 ```text
-Disparage = make less valuable
-Denigrate = lower reputation
-Vilify    = portray as wicked
+Disparage → reduce value
+Denigrate → lower reputation
+Deride    → mock
+Scorn     → treat with contempt
+Vilify    → portray as wicked / villainous
 ```
 
 ---
 
-# 🧠 Day 2 Mental Network
-
-## 1. Praise Cluster
+# 🧠 Day 2 Master Map
 
 ```text
-COMMEND
-  ↓
-measured / formal approval
+                         DAY 2
+                           │
+        ┌──────────────────┼──────────────────┐
+        │                  │                  │
+      PRAISE           CRITICISM          CONTEMPT
+        │                  │                  │
+        │                  │                  │
+   ┌────┴─────┐      ┌─────┴─────┐      ┌─────┴─────┐
+   │          │      │           │      │           │
+COMMEND     LAUD  ADMONISH    REBUKE DISPARAGE   DERIDE
+formal     public warning     sharp  belittle    mock
+praise     praise correction  scold  value       ridicule
 
-LAUD
-  ↓
-strong public praise
+ACCLAIM    EXTOL  REPROACH   CENSURE DENIGRATE  SCORN
+public     glowing disappointed formal damage    contempt
+approval   praise criticism   disapproval reputation
 
-ACCLAIM
-  ↓
-public recognition and approval
-
-EXTOL
-  ↓
-enthusiastic, elaborate praise
-
-EULOGIZE
-  ↓
-formal speech of high praise
-```
-
-## 2. Criticism Cluster
-
-```text
-ADMONISH
-  ↓
-warning + correction
-
-REPROACH
-  ↓
-disappointment + criticism
-
-REBUKE
-  ↓
-sharp direct disapproval
-
-CENSURE
-  ↓
-formal strong disapproval
-
-CASTIGATE
-  ↓
-extremely harsh criticism
-```
-
-## 3. Contempt Cluster
-
-```text
-DISPARAGE
-  ↓
-make something seem less valuable
-
-DENIGRATE
-  ↓
-lower someone’s reputation or worth
-
-DERIDE
-  ↓
-mock or ridicule
-
-SCORN
-  ↓
-regard with contempt
-
-VILIFY
-  ↓
-portray as wicked or villainous
+EULOGIZE          CASTIGATE          VILIFY
+formal            severe             make someone
+speech            criticism          look villainous
 ```
 
 ---
 
-# Important GRE Contrast Blocks
-
-## Commend vs Censure
+# Visual Contrast Map
 
 ```text
+🟢 PRAISE
+
 COMMEND
+🤝 Manager says: “Well done.”
 = formal approval
 
-CENSURE
-= formal disapproval
-```
-
-## Laud vs Extol
-
-```text
 LAUD
-= high praise, often public
+🏆 Award stage + applause
+= public high praise
+
+ACCLAIM
+🎬 Critics + audience applaud
+= public recognition
 
 EXTOL
-= enthusiastic and elaborate praise
+✨ Writer praises endlessly
+= glowing admiration
+
+EULOGIZE
+🎙️ Memorial podium speech
+= formal spoken praise
 ```
 
-## Admonish vs Rebuke vs Castigate
-
 ```text
+🔴 CRITICISM
+
 ADMONISH
-= “Do not do this again.”
-= warning + correction
+☝️ Parent warns child
+= corrective warning
+
+REPROACH
+😔 “I expected better.”
+= disappointed criticism
 
 REBUKE
-= “What you did was unacceptable.”
+✋ “Stop that.”
 = sharp disapproval
 
+CENSURE
+⚖️ Ethics board condemns
+= formal disapproval
+
 CASTIGATE
-= “This was disgraceful and unforgivable.”
-= extremely harsh criticism
+🔥 Furious editorial
+= severe criticism
 ```
 
-## Disparage vs Denigrate vs Vilify
-
 ```text
+🟣 CONTEMPT
+
 DISPARAGE
-= reduce the value of something
+🙄 “Anyone could do that.”
+= belittle value
 
 DENIGRATE
-= reduce someone’s reputation or worth
+⬇️ Drag reputation down
+= attack worth
 
-VILIFY
-= make someone look evil or villainous
-```
-
-## Deride vs Scorn
-
-```text
 DERIDE
+😂 Laugh at idea
 = mock / ridicule
 
 SCORN
-= treat with contempt
+😒 “Beneath me.”
+= contempt
+
+VILIFY
+👿 Make someone a villain
+= extreme character attack
 ```
 
-A person can **scorn** something silently, but to **deride** something usually involves open mockery.
+---
+
+# Important GRE Traps
+
+## 1. Laud vs Extol
+
+```text
+Laud  → strong public praise
+Extol → enthusiastic, detailed praise
+```
+
+Both can be correct Sentence Equivalence partners, but **extol** often sounds more elaborate.
+
+---
+
+## 2. Commend vs Laud
+
+```text
+Commend → measured formal approval
+Laud    → stronger public praise
+```
+
+A manager may **commend** your work.  
+A public committee may **laud** your achievement.
+
+---
+
+## 3. Admonish vs Rebuke
+
+```text
+Admonish → warn and correct
+Rebuke   → sharply criticize
+```
+
+A parent may **admonish** a child for safety.  
+A professor may **rebuke** a student for rude behavior.
+
+---
+
+## 4. Censure vs Castigate
+
+```text
+Censure   → formal disapproval
+Castigate → extremely harsh criticism
+```
+
+An ethics board **censures**.  
+A furious editorial **castigates**.
+
+---
+
+## 5. Disparage vs Denigrate
+
+```text
+Disparage → make something seem less valuable
+Denigrate → attack reputation or worth
+```
+
+These are close GRE synonym partners.
+
+---
+
+## 6. Deride vs Scorn
+
+```text
+Deride → mock / ridicule
+Scorn  → contempt
+```
+
+**Deride** often involves laughter.  
+**Scorn** can be silent contempt.
+
+---
+
+## 7. Vilify vs Criticize
+
+```text
+Criticize → say something is wrong
+Vilify    → portray someone as wicked or villainous
+```
+
+**Vilify** is much stronger.
 
 ---
 
 # Quick Revision Table
 
-| Word | Core Meaning | Visual Anchor | GRE Pair / Contrast |
+| Word | Core Meaning | Visual Memory | GRE Pair / Contrast |
 |---|---|---|---|
-| **Commend** | formal approval | manager handshake | opposite of censure |
-| **Laud** | public high praise | award stage | close to extol/acclaim |
-| **Acclaim** | public recognition | critics applauding | critically acclaimed |
-| **Extol** | enthusiastic praise | nonstop glowing review | close to laud |
-| **Eulogize** | formal praise speech | memorial podium | opposite of vilify |
-| **Admonish** | warn and correct | parent warning child | milder than rebuke |
+| **Laud** | public high praise | award stage | laud ≈ extol |
+| **Extol** | enthusiastic praise | glowing travel writer | extol ≈ laud |
+| **Acclaim** | public recognition | critics applaud | acclaimed film |
+| **Commend** | formal approval | manager handshake | commend ↔ censure |
+| **Eulogize** | formal praise speech | memorial podium | eulogize ↔ vilify |
+| **Admonish** | warn/correct | parent warning child | milder than rebuke |
 | **Reproach** | disappointed criticism | “I expected better” | emotional disapproval |
-| **Rebuke** | sharp disapproval | teacher stops interruption | sharper than admonish |
-| **Censure** | formal disapproval | ethics board statement | opposite of commend |
+| **Rebuke** | sharp disapproval | teacher stops student | stronger than admonish |
+| **Censure** | formal disapproval | ethics board | censure ↔ commend |
 | **Castigate** | severe criticism | furious editorial | strongest criticism word |
-| **Disparage** | belittle value | “Anyone could do that” | close to denigrate |
-| **Denigrate** | lower reputation | reputation pulled down | close to disparage |
-| **Deride** | mock/ridicule | laughing crowd | mockery word |
-| **Scorn** | contempt | “beneath me” | close to disdain |
-| **Vilify** | portray as evil | villain poster | character attack |
+| **Disparage** | belittle value | “anyone could do that” | disparage ≈ denigrate |
+| **Denigrate** | lower reputation | drag reputation down | denigrate ≈ disparage |
+| **Deride** | mock/ridicule | laughing crowd | deride ≈ ridicule |
+| **Scorn** | contempt | “beneath me” | scorn ≈ disdain |
+| **Vilify** | portray as villain | dark political poster | vilify ≈ malign |
 
 ---
 
-# Sentence Equivalence Pairs to Remember
-
-```text
-Laud ≈ Extol
-Laud ≈ Acclaim
-Commend ≈ Praise
-Censure ≈ Condemn
-Rebuke ≈ Reprimand
-Castigate ≈ Lambaste
-Disparage ≈ Denigrate
-Deride ≈ Ridicule
-Scorn ≈ Disdain
-Vilify ≈ Defame / Malign
-```
-
----
-
-# Mini GRE-Style Practice
-
-## Question 1
-
-The committee did not merely appreciate the scientist’s work privately; it publicly ________ her contribution before the entire academic community.
-
-```text
-A. derided
-B. lauded
-C. admonished
-D. disparaged
-E. reproached
-```
-
-**Answer:** B. **lauded**
-
-**Why:** The sentence says “publicly” and “appreciate,” so we need public praise.
-
----
-
-## Question 2
-
-The editorial ________ the officials for ignoring safety warnings, describing their negligence as unforgivable.
-
-```text
-A. commended
-B. extolled
-C. castigated
-D. acclaimed
-E. eulogized
-```
-
-**Answer:** C. **castigated**
-
-**Why:** “Negligence” and “unforgivable” indicate extremely harsh criticism.
-
----
-
-## Question 3
-
-Rather than refute the proposal logically, the speaker tried to ________ it as childish and worthless.
-
-```text
-A. disparage
-B. commend
-C. acclaim
-D. eulogize
-E. laud
-```
-
-**Answer:** A. **disparage**
-
-**Why:** The speaker is reducing the proposal’s value instead of arguing logically.
-
----
-
-# Final Memory Ladder
+# Final Memory Network
 
 ```text
 PRAISE
-
-Commend → Laud → Acclaim → Extol → Eulogize
+│
+├── COMMEND
+│   └── formal approval
+│
+├── LAUD
+│   └── public high praise
+│
+├── ACCLAIM
+│   └── public recognition
+│
+├── EXTOL
+│   └── enthusiastic praise
+│
+└── EULOGIZE
+    └── formal speech of praise
 
 
 CRITICISM
+│
+├── ADMONISH
+│   └── warn and correct
+│
+├── REPROACH
+│   └── disappointed criticism
+│
+├── REBUKE
+│   └── sharp disapproval
+│
+├── CENSURE
+│   └── formal disapproval
+│
+└── CASTIGATE
+    └── severe criticism
 
-Admonish → Reproach → Rebuke → Censure → Castigate
 
-
-CONTEMPT
-
-Disparage → Denigrate → Deride → Scorn → Vilify
+BELITTLING / CONTEMPT
+│
+├── DISPARAGE
+│   └── reduce value
+│
+├── DENIGRATE
+│   └── damage reputation
+│
+├── DERIDE
+│   └── mock / ridicule
+│
+├── SCORN
+│   └── contempt
+│
+└── VILIFY
+    └── portray as wicked
 ```
 
 ---
 
 # Day 2 Testing Progression
 
-When revising this group, test in this order:
+After studying this group, the test should happen in three stages:
 
 ```text
-Stage 1: Visual Recall
-Look at the image and recall the word.
+Stage 1
+Visual + Meaning Recall
 
-Stage 2: Core Meaning
-State the word in 5–7 words.
+Example:
+Award stage + public praise = ?
 
-Stage 3: Pair Recognition
-Match synonym pairs and opposite pairs.
+        ↓
 
-Stage 4: GRE Sentence Completion
-Use context and tone to choose the correct word.
+Stage 2
+Synonym / Antonym Relationships
 
-Stage 5: Trap Detection
-Explain why the tempting wrong answer is wrong.
+Example:
+Which word is closest to EXTOL?
+Which word is opposite of COMMEND?
+
+        ↓
+
+Stage 3
+GRE Sentence Equivalence + Text Completion
+
+Example:
+The board did not merely criticize the executive informally; it issued an official statement of disapproval, formally ________ him.
 ```
 
-The final stage is the real GRE skill: not just knowing the word, but knowing why a nearby word does **not** fit.
+Answer:
+
+```text
+censuring
+```
+
+This final stage checks whether the word is actually usable for GRE Verbal, not merely familiar.
