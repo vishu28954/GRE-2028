@@ -62,9 +62,11 @@ To praise someone or something highly, especially publicly or formally.
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Laud — public recognition at a science award ceremony](https://commons.wikimedia.org/wiki/Special:Redirect/file/Mohd.%20Hamid%20Ansari%20presenting%20the%20award%20to%20a%20young%20scientist%2C%20at%20the%20valedictory%20function%20of%20the%20%E2%80%9C101st%20Session%20of%20Indian%20Science%20Congress%E2%80%9D%2C%20at%20University%20of%20Jammu.jpg)
 
-A scientist stands on a grand award stage holding a trophy. A host at the podium is praising her discovery while a large audience gives a standing ovation.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mohd._Hamid_Ansari_presenting_the_award_to_a_young_scientist,_at_the_valedictory_function_of_the_%E2%80%9C101st_Session_of_Indian_Science_Congress%E2%80%9D,_at_University_of_Jammu.jpg)*
+
+Imagine a scientist standing on a grand award stage holding a trophy. A host at the podium is praising her discovery while a large audience gives a standing ovation.
 
 ```text
 🏆 Award stage
@@ -150,9 +152,11 @@ To praise someone or something very enthusiastically, often at length.
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Extol — beautiful Alpine village](https://commons.wikimedia.org/wiki/Special:Redirect/file/Alpine_village_landscape_%28Unsplash%29.jpg)
 
-A travel writer stands before a projector showing a mountain village. She is animatedly praising the village: its sunrise, food, people, houses, and peaceful atmosphere.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alpine_village_landscape_(Unsplash).jpg)*
+
+Imagine a travel writer standing in front of this mountain village and enthusiastically praising everything about it: the sunrise, the landscape, the houses, the people, and the peaceful atmosphere.
 
 ```text
 🗻 Beautiful village
@@ -245,9 +249,11 @@ To praise enthusiastically and publicly; public praise or approval.
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Acclaim — standing ovation at a film premiere](https://commons.wikimedia.org/wiki/Special:Redirect/file/Nagi_Notes_standing_ovation_at_2026_Cannes_Film_Festival_01.jpg)
 
-A movie premiere ends. Critics stand and applaud. The next morning, newspapers show five-star reviews and headlines calling the film a masterpiece.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nagi_Notes_standing_ovation_at_2026_Cannes_Film_Festival_01.jpg)*
+
+Imagine a movie premiere ending with critics and audience members standing to applaud. The next morning, glowing reviews appear everywhere.
 
 ```text
 🎬 Film premiere
@@ -333,9 +339,11 @@ To praise formally or express approval of someone’s action, conduct, or qualit
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Commend — professional handshake](https://commons.wikimedia.org/wiki/Special:Redirect/file/Business_man_and_woman_handshake_in_work_office.jpg)
 
-A manager shakes hands with an employee after a successful presentation. The room is calm and professional. The praise is warm but controlled.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Business_man_and_woman_handshake_in_work_office.jpg)*
+
+Imagine a manager shaking hands with an employee after a successful presentation. The praise is warm, professional, and measured.
 
 ```text
 🤝 Manager handshake
@@ -423,14 +431,16 @@ To praise someone highly in a formal speech, often at a memorial or ceremonial o
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Eulogize — memorial speech at a podium](https://commons.wikimedia.org/wiki/Special:Redirect/file/Speech_during_32nd_commemoration_of_genocide_against_Tutsi_in_1994.jpg)
 
-A former student stands at a podium during a memorial service. A photograph of a professor is placed nearby. The audience listens quietly and emotionally.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Speech_during_32nd_commemoration_of_genocide_against_Tutsi_in_1994.jpg)*
+
+Imagine a former student standing at a memorial podium and speaking warmly about a professor’s influence, generosity, and achievements.
 
 ```text
 🎙️ Podium speech
 🕯️ Memorial setting
-👨‍🏫 Honoring a professor
+👨‍🏫 Honoring a mentor
 💭 Respectful remembrance
 ```
 
@@ -525,9 +535,11 @@ To warn or mildly reprimand someone, usually to correct behavior.
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Admonish — mother teaching a child road safety](https://commons.wikimedia.org/wiki/Special:Redirect/file/A_mother_teaches_her_daughter_to_cross_the_road_in_safety_during_1942._D7807.jpg)
 
-A parent kneels beside a child near a busy road. The parent looks serious but caring, warning the child not to run into traffic again.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_mother_teaches_her_daughter_to_cross_the_road_in_safety_during_1942._D7807.jpg)*
+
+Imagine a parent seriously warning a child not to run into traffic again. The purpose is not humiliation; it is correction and protection.
 
 ```text
 👩 Parent
@@ -607,9 +619,11 @@ To criticize someone with disappointment or moral disapproval.
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Reproach — serious conversation between friends](https://commons.wikimedia.org/wiki/Special:Redirect/file/Conversation_Friends.jpg)
 
-A close friend sits across from another friend who has broken a promise. The disappointed friend is not shouting but looks deeply hurt.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Conversation_Friends.jpg)*
+
+Imagine a close friend confronting another friend after a broken promise. The criticism is not necessarily loud; it is heavy with disappointment.
 
 ```text
 😔 Disappointed friend
@@ -697,9 +711,11 @@ To express sharp disapproval of someone’s behavior.
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Rebuke — teacher and student interaction](https://commons.wikimedia.org/wiki/Special:Redirect/file/A_teacher_and_student_pointing_at_a_Wiki4Education_Poster.jpg)
 
-A teacher stands at the front of a classroom, sternly stopping a student who keeps interrupting others. The class becomes silent.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_teacher_and_student_pointing_at_a_Wiki4Education_Poster.jpg)*
+
+Use the image as a classroom anchor: imagine the teacher’s gesture becoming stern after a student repeatedly interrupts the lesson.
 
 ```text
 👩‍🏫 Teacher
@@ -779,9 +795,11 @@ To express strong formal disapproval.
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Censure — board committee meeting](https://commons.wikimedia.org/wiki/Special:Redirect/file/Board_Committee.png)
 
-An ethics board sits behind a long table. A formal document is being read aloud condemning a member’s misconduct.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Board_Committee.png)*
+
+Imagine this committee formally reviewing misconduct and issuing an official statement condemning a member’s behavior.
 
 ```text
 ⚖️ Ethics board
@@ -869,12 +887,14 @@ To criticize or reprimand someone very severely.
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Castigate — forceful editorial criticism](https://commons.wikimedia.org/wiki/Special:Redirect/file/Help_Him_To_Get_Out_editorial_cartoon.jpg)
 
-A furious newspaper editorial appears after a bridge collapse. The headline accuses officials of negligence, and the article attacks them line after line.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Help_Him_To_Get_Out_editorial_cartoon.jpg)*
+
+Think of a furious editorial or political cartoon that does not merely disagree but attacks a failure in severe, accusatory language.
 
 ```text
-📰 Furious editorial
+📰 Editorial attack
 🔥 Severe criticism
 ⚠️ Public failure
 😡 Accusatory tone
@@ -964,9 +984,11 @@ To speak about someone or something in a way that makes it seem less valuable, i
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Disparage — student presenting work](https://commons.wikimedia.org/wiki/Special:Redirect/file/Student_during_presentation.jpg)
 
-A student presents an impressive project. Another student rolls his eyes and says it is nothing special, trying to make the achievement look small.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Student_during_presentation.jpg)*
+
+Imagine this student giving a strong presentation while a rival dismisses the achievement as trivial.
 
 ```text
 📊 Impressive project
@@ -1052,9 +1074,11 @@ To unfairly criticize or belittle someone’s reputation, worth, or achievements
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Denigrate — opposition speech attacking an opponent](https://commons.wikimedia.org/wiki/Special:Redirect/file/Mid-shot_of_leader_of_the_opposition_David_Cameron_standing_at_a_lectern_speaking_to_an_audience_at_an_event_organised_by_thinktank_Demos_in_London_on_30_January_2006.jpg)
 
-A candidate stands on stage while a rival tries to pull down a large glowing sign labeled “Reputation.” The rival is not improving himself; he is attacking the other person’s worth.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mid-shot_of_leader_of_the_opposition_David_Cameron_standing_at_a_lectern_speaking_to_an_audience_at_an_event_organised_by_thinktank_Demos_in_London_on_30_January_2006.jpg)*
+
+Use the political-opposition setting as the memory cue: imagine a speaker trying to lower an opponent’s credibility rather than merely disagreeing with a policy.
 
 ```text
 🧍 Competitor
@@ -1135,9 +1159,11 @@ To mock or ridicule someone or something contemptuously.
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Deride — audience laughing](https://commons.wikimedia.org/wiki/Special:Redirect/file/The_audience_laughing_%282022%29_%2852335886276%29.jpg)
 
-An inventor presents a strange machine. The audience points, laughs, and refuses to take the idea seriously.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:The_audience_laughing_(2022)_(52335886276).jpg)*
+
+Imagine an inventor presenting an unconventional idea while the audience points, laughs, and refuses to take the proposal seriously.
 
 ```text
 🔧 Strange invention
@@ -1217,20 +1243,22 @@ To regard or treat someone or something with strong contempt.
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Scorn — facial expression of contempt](https://commons.wikimedia.org/wiki/Special:Redirect/file/Contempt_facial_expression.jpg)
 
-A wealthy aristocrat looks coldly at a simple gift, pushes it away, and says it is beneath him.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Contempt_facial_expression.jpg)*
+
+This facial expression is the memory anchor: **scorn** can be communicated without saying anything at all. The contempt is visible in the look itself.
 
 ```text
 😒 Cold expression
-✋ Rejected offer
+✋ Rejection
 ⬇️ “Beneath me”
 🧊 Silent contempt
 ```
 
 ### Scene
 
-He says:
+Imagine someone looking at an offer and saying:
 
 > “I would never accept something so ordinary.”
 
@@ -1299,20 +1327,22 @@ To speak about someone in an extremely negative way and portray them as wicked, 
 
 ## 🧠 Visual Association
 
-### Visual Card Brief
+![Vilify — propaganda portraying a political opponent as a demon](https://commons.wikimedia.org/wiki/Special:Redirect/file/WhiteArmyPropagandaPosterOfTrotsky.jpg)
 
-A political poster shows an opponent with dark shadows, red warning signs, and the word “DANGER” behind him. The poster is not criticizing policy; it is turning the person into a villain.
+*Visual source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WhiteArmyPropagandaPosterOfTrotsky.jpg)*
+
+This propaganda poster is a direct visual example of **vilification**: an opponent is not merely criticized but deliberately portrayed as monstrous and dangerous.
 
 ```text
 👤 Opponent
-🌑 Dark shadows
-⚠️ Danger symbols
+🌑 Dark imagery
+⚠️ Threatening portrayal
 👿 Made to look villainous
 ```
 
 ### Scene
 
-The poster says:
+The message is essentially:
 
 > “This person is a threat to society.”
 
@@ -1558,20 +1588,20 @@ Vilify    → portray someone as wicked or villainous
 | Word | Core Meaning | Visual Memory | GRE Pair / Contrast |
 |---|---|---|---|
 | **Laud** | public high praise | award stage | laud ≈ extol |
-| **Extol** | enthusiastic praise | glowing travel writer | extol ≈ laud |
-| **Acclaim** | public recognition | critics applaud | acclaimed film |
-| **Commend** | formal approval | manager handshake | commend ↔ censure |
+| **Extol** | enthusiastic praise | beautiful mountain village | extol ≈ laud |
+| **Acclaim** | public recognition | standing ovation | acclaimed film |
+| **Commend** | formal approval | professional handshake | commend ↔ censure |
 | **Eulogize** | formal praise speech | memorial podium | eulogize ↔ vilify |
-| **Admonish** | warn/correct | parent warning child | milder than rebuke |
-| **Reproach** | disappointed criticism | “I expected better” | emotional disapproval |
-| **Rebuke** | sharp disapproval | teacher stops student | stronger than admonish |
-| **Censure** | formal disapproval | ethics board | censure ↔ commend |
-| **Castigate** | severe criticism | furious editorial | strongest criticism word |
-| **Disparage** | belittle value | “anyone could do that” | disparage ≈ denigrate |
-| **Denigrate** | lower reputation | drag reputation down | denigrate ≈ disparage |
-| **Deride** | mock/ridicule | laughing crowd | deride ≈ ridicule |
-| **Scorn** | contempt | “beneath me” | scorn ≈ disdain |
-| **Vilify** | portray as villain | dark political poster | vilify ≈ malign |
+| **Admonish** | warn/correct | parent teaching road safety | milder than rebuke |
+| **Reproach** | disappointed criticism | serious friend conversation | emotional disapproval |
+| **Rebuke** | sharp disapproval | teacher/student interaction | stronger than admonish |
+| **Censure** | formal disapproval | board committee | censure ↔ commend |
+| **Castigate** | severe criticism | forceful editorial cartoon | strongest criticism word |
+| **Disparage** | belittle value | student presentation | disparage ≈ denigrate |
+| **Denigrate** | lower reputation | opposition speech | denigrate ≈ disparage |
+| **Deride** | mock/ridicule | laughing audience | deride ≈ ridicule |
+| **Scorn** | contempt | contemptuous facial expression | scorn ≈ disdain |
+| **Vilify** | portray as villain | demonizing propaganda | vilify ≈ malign |
 
 ---
 
