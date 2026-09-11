@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#EEF2FF"/>
+  <rect x="45" y="40" width="1110" height="340" rx="28" fill="#FFFFFF" stroke="#3949AB" stroke-width="4"/>
+  <text x="80" y="105" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#283593">REPROACH</text>
+  <text x="80" y="150" font-family="Arial, sans-serif" font-size="25" fill="#3949AB">disappointment + criticism</text>
+  <circle cx="260" cy="235" r="70" fill="#C5CAE9" stroke="#283593" stroke-width="4"/>
+  <text x="224" y="247" font-family="Arial, sans-serif" font-size="42" fill="#283593">😔</text>
+  <text x="470" y="210" font-family="Arial, sans-serif" font-size="35" font-weight="700" fill="#283593">“I expected better from you.”</text>
+  <text x="470" y="270" font-family="Arial, sans-serif" font-size="27" fill="#333">not rage — moral disappointment</text>
+  <text x="470" y="318" font-family="Arial, sans-serif" font-size="25" fill="#555">a broken promise, trust damaged</text>
+</svg>
