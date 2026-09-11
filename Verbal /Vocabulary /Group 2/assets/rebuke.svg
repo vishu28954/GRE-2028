@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <rect width="1200" height="420" fill="#FBE9E7"/>
+  <rect x="45" y="40" width="1110" height="340" rx="28" fill="#FFFFFF" stroke="#D84315" stroke-width="4"/>
+  <text x="80" y="105" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#BF360C">REBUKE</text>
+  <text x="80" y="150" font-family="Arial, sans-serif" font-size="25" fill="#D84315">sharp direct disapproval</text>
+  <rect x="130" y="205" width="250" height="105" rx="18" fill="#FFCCBC" stroke="#BF360C" stroke-width="3"/>
+  <text x="165" y="254" font-family="Arial, sans-serif" font-size="32" fill="#BF360C">Teacher</text>
+  <text x="165" y="292" font-family="Arial, sans-serif" font-size="25" fill="#333">stops interruption</text>
+  <text x="500" y="220" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#BF360C">“Enough. Stop interrupting.”</text>
+  <text x="500" y="285" font-family="Arial, sans-serif" font-size="27" fill="#333">brief, direct, unmistakably sharp</text>
+</svg>
