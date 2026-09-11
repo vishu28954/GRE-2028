@@ -1,23 +1,42 @@
-# GRE Vocabulary — Day 2
+# GRE Vocabulary — Group 2 | Day 2
 
-## Theme: Praise, Criticism & Disapproval
+## Theme: Praise, Criticism & Contempt
 
-Today’s objective is to learn these words as a semantic network, not as 15 isolated definitions.
+Today’s vocabulary is built around one emotional spectrum:
+
+```text
+PRAISE  →  CORRECTION  →  HARSH CRITICISM  →  MOCKERY  →  CONTEMPT
+```
+
+GRE does not only test whether you know a word. It tests whether you understand **tone**, **intensity**, and **near-synonym relationships**.
+
+---
+
+# 🟢 Cluster 1: Praise
+
+These words all involve praise, but they differ in **formality**, **publicness**, and **intensity**.
 
 ---
 
 ## 1. Laud
 
-**Pronunciation:** lawd  
-**Part of speech:** verb  
-**Meaning:** to praise highly, especially publicly.  
-**Hindi:** बहुत प्रशंसा करना / सार्वजनिक रूप से सराहना करना
+### Pronunciation
+**lawd**
 
-### Visual association
-Imagine an award ceremony where a scientist is standing on stage while the audience applauds and the host lists all of her achievements.
+### English Meaning
+To praise someone or something highly, especially publicly.
 
-### Memory hook
-**Laud → loud praise**. If you praise someone loudly and publicly, you **laud** them.
+### Hindi Meaning
+बहुत प्रशंसा करना / सार्वजनिक रूप से सराहना करना
+
+### Visual Association
+
+![Visual association for Laud](https://placehold.co/1000x300/edf7ed/1f3d1f?text=LAUD+%7C+Award+Stage+%2B+Audience+Applause+%2B+Public+Praise)
+
+Imagine a scientist standing on a stage while the audience applauds and the host lists her achievements. The praise is not private or casual; it is public and respectful. That public high praise is **lauding**.
+
+### Memory Hook
+**Laud → loud praise**. When praise is strong and public, imagine it being said loudly.
 
 ### Synonyms
 praise, commend, acclaim, extol
@@ -25,26 +44,33 @@ praise, commend, acclaim, extol
 ### Antonyms
 criticize, condemn, censure
 
-### Usage
-The committee **lauded** the researcher for developing an inexpensive diagnostic test. Several senior scientists publicly praised both the originality of her work and its potential social impact. The award ceremony therefore became as much a celebration of her achievement as a formal presentation of the prize.
+### Usage Paragraph
+The committee **lauded** the researcher for developing an inexpensive diagnostic test. Several senior scientists praised both the originality of her method and its potential impact on public health. The ceremony became a public celebration of her achievement.
 
-### GRE note
-**Laud** usually suggests strong or public praise, not merely saying something is “good.”
+### GRE Connections / Distinctions
+**Laud** is stronger than ordinary praise. It often has a public or formal flavor, so it pairs well with **acclaim** and **extol**, but it is the opposite of **censure**.
 
 ---
 
 ## 2. Extol
 
-**Pronunciation:** ik-STOHL  
-**Part of speech:** verb  
-**Meaning:** to praise enthusiastically and at length.  
-**Hindi:** बहुत बढ़-चढ़कर प्रशंसा करना
+### Pronunciation
+**ik-STOHL**
 
-### Visual association
-Picture a product reviewer speaking for ten minutes about how extraordinary a new device is and barely mentioning any shortcomings.
+### English Meaning
+To praise enthusiastically and often at length.
 
-### Memory hook
-Think: **EXTOL = EXTreme praise**.
+### Hindi Meaning
+बहुत बढ़-चढ़कर प्रशंसा करना / गुणगान करना
+
+### Visual Association
+
+![Visual association for Extol](https://placehold.co/1000x300/fff3d6/3d2d00?text=EXTOL+%7C+Enthusiastic+Review+%2B+Glowing+Words+%2B+Long+Praise)
+
+Imagine a travel blogger describing Japan for twenty minutes: the trains, the food, the temples, the people, the cleanliness, everything. The person is not just saying “it was good”; they are praising it with energy and detail. That is **extolling**.
+
+### Memory Hook
+**Extol → EXTreme praise**.
 
 ### Synonyms
 laud, praise, glorify, exalt
@@ -52,80 +78,101 @@ laud, praise, glorify, exalt
 ### Antonyms
 denigrate, disparage, condemn
 
-### Usage
-The travel writer **extolled** the beauty of the remote mountain village, describing its landscape, hospitality, and architecture in glowing terms. Her article contained so much admiration that readers could easily mistake it for promotional material.
+### Usage Paragraph
+The travel writer **extolled** the beauty of the remote mountain village, describing its landscape, hospitality, and architecture in glowing terms. Her article was so full of admiration that readers could almost mistake it for an advertisement. The village was not merely mentioned; it was celebrated in every paragraph.
 
-### GRE note
-**Extol** often implies enthusiastic, elaborate praise. It is stronger than ordinary “praise.”
+### GRE Connections / Distinctions
+**Extol** is more enthusiastic and elaborate than **commend**. In Sentence Equivalence, **extol** and **laud** can often work as synonym partners.
 
 ---
 
 ## 3. Acclaim
 
-**Pronunciation:** uh-KLAYM  
-**Part of speech:** verb / noun  
-**Meaning:** to praise enthusiastically and publicly; enthusiastic public approval.  
-**Hindi:** सार्वजनिक प्रशंसा / जोरदार सराहना
+### Pronunciation
+**uh-KLAYM**
 
-### Visual association
-Imagine a film premiere where critics stand and applaud while newspapers publish glowing reviews the next morning.
+### English Meaning
+To praise enthusiastically and publicly; also the public praise itself.
 
-### Memory hook
-**Acclaim = applause + claim of excellence.**
+### Hindi Meaning
+सार्वजनिक प्रशंसा / जोरदार सराहना
+
+### Visual Association
+
+![Visual association for Acclaim](https://placehold.co/1000x300/e8f0ff/102a5c?text=ACCLAIM+%7C+Standing+Ovation+%2B+Critic+Reviews+%2B+Public+Recognition)
+
+Imagine a film premiere where critics stand up, clap, and publish glowing reviews the next morning. The movie receives applause, awards, and public recognition. That public approval is **acclaim**.
+
+### Memory Hook
+**Acclaim = applause + claim of excellence**.
 
 ### Synonyms
-praise, applaud, laud, celebrate
+laud, praise, applaud, celebrate
 
 ### Antonyms
 condemn, criticize, denounce
 
-### Usage
-The novelist’s first book was **acclaimed** by critics for its unusual narrative structure. Within months, it had received several awards and widespread praise from literary journals. The author, however, remained surprisingly modest despite the acclaim.
+### Usage Paragraph
+The novelist’s first book was **acclaimed** by critics for its unusual narrative structure. Within months, it had received several awards and widespread praise from literary journals. The author, however, remained modest despite the enormous **acclaim**.
 
-### GRE note
-**Acclaim** frequently appears with public or critical recognition: *critically acclaimed*, *widely acclaimed*.
+### GRE Connections / Distinctions
+You will often see phrases like **critically acclaimed** or **widely acclaimed**. **Acclaim** strongly suggests public recognition, not private approval.
 
 ---
 
 ## 4. Commend
 
-**Pronunciation:** kuh-MEND  
-**Part of speech:** verb  
-**Meaning:** to praise formally or express approval of someone’s action.  
-**Hindi:** प्रशंसा करना / सराहना करना
+### Pronunciation
+**kuh-MEND**
 
-### Visual association
-Picture a manager shaking an employee’s hand after the employee handled a difficult customer calmly and professionally.
+### English Meaning
+To praise formally or express approval of someone’s action.
 
-### Memory hook
-A **commendation** is an official expression of praise.
+### Hindi Meaning
+सराहना करना / प्रशंसा करना
+
+### Visual Association
+
+![Visual association for Commend](https://placehold.co/1000x300/eaf7ff/15384f?text=COMMEND+%7C+Manager+Handshake+%2B+Measured+Approval+%2B+Good+Work)
+
+Imagine a manager shaking an employee’s hand and saying, “You handled that situation very professionally.” The praise is respectful and formal, but not exaggerated. That is **commending** someone.
+
+### Memory Hook
+**Commend → commendation**, an official expression of praise.
 
 ### Synonyms
-praise, applaud, compliment, laud
+praise, compliment, applaud, laud
 
 ### Antonyms
-reprimand, criticize, rebuke
+reprimand, rebuke, criticize
 
-### Usage
-The director **commended** the team for finishing the project ahead of schedule without sacrificing quality. She specifically praised their coordination and attention to detail. Her remarks were appreciative but measured rather than extravagant.
+### Usage Paragraph
+The director **commended** the team for finishing the project ahead of schedule without sacrificing quality. She praised their coordination and attention to detail. Her tone was appreciative but controlled, not dramatic.
 
-### GRE note
-**Commend** is usually milder and more formal than **extol** or **laud**.
+### GRE Connections / Distinctions
+**Commend** is usually milder than **extol** or **laud**. If the sentence suggests formal approval rather than enthusiastic celebration, **commend** may be the best fit.
 
 ---
 
 ## 5. Eulogize
 
-**Pronunciation:** YOO-luh-jyz  
-**Part of speech:** verb  
-**Meaning:** to praise highly, especially in a formal speech; often used when speaking about someone who has died.  
-**Hindi:** गुणगान करना / श्रद्धांजलि में प्रशंसा करना
+### Pronunciation
+**YOO-luh-jyz**
 
-### Visual association
-Imagine a memorial service where a close friend stands at a podium and speaks warmly about the deceased person’s character and achievements.
+### English Meaning
+To praise someone highly in a formal speech; often used in a memorial context.
 
-### Memory hook
-**Eulogy → Eulogize.**
+### Hindi Meaning
+गुणगान करना / श्रद्धांजलि देते हुए प्रशंसा करना
+
+### Visual Association
+
+![Visual association for Eulogize](https://placehold.co/1000x300/f3edf7/362144?text=EULOGIZE+%7C+Memorial+Speech+%2B+Podium+%2B+Formal+Praise)
+
+Imagine a memorial service where a student stands at a podium and speaks warmly about a professor’s kindness, discipline, and influence. The speech is full of respect and remembrance. That formal praise is **eulogizing**.
+
+### Memory Hook
+**Eulogy → Eulogize**. A eulogy is a formal speech of praise.
 
 ### Synonyms
 praise, extol, celebrate, glorify
@@ -133,55 +180,73 @@ praise, extol, celebrate, glorify
 ### Antonyms
 criticize, denigrate, vilify
 
-### Usage
-At the memorial, several former students **eulogized** the professor as a demanding but deeply generous mentor. They recalled specific moments when he had supported their careers and encouraged their research. Their speeches focused on the qualities they most admired in him.
+### Usage Paragraph
+At the memorial, several former students **eulogized** the professor as a demanding but deeply generous mentor. They recalled moments when he had supported their careers and encouraged their research. Their speeches praised both his achievements and his character.
 
-### GRE note
-Do not assume **eulogize** can only be used after death, but that is a very common context.
+### GRE Connections / Distinctions
+Do not reduce **eulogize** to “praise a dead person.” That is common, but the core meaning is **formal high praise**, often in speech.
 
 ---
 
-# Criticism and Disapproval
+# 🔴 Cluster 2: Criticism and Disapproval
+
+These words move from gentle correction to severe condemnation.
+
+---
 
 ## 6. Censure
 
-**Pronunciation:** SEN-shur  
-**Part of speech:** verb / noun  
-**Meaning:** to express strong formal disapproval.  
-**Hindi:** कड़ी औपचारिक निंदा करना
+### Pronunciation
+**SEN-shur**
 
-### Visual association
-Imagine a professional committee officially announcing that one of its members violated ethical rules and formally condemning the behavior.
+### English Meaning
+To express strong formal disapproval.
 
-### Memory hook
-**Censure = serious official criticism.**
+### Hindi Meaning
+कड़ी औपचारिक निंदा करना
+
+### Visual Association
+
+![Visual association for Censure](https://placehold.co/1000x300/ffeaea/5a1414?text=CENSURE+%7C+Ethics+Board+%2B+Formal+Statement+%2B+Official+Disapproval)
+
+Imagine an ethics board announcing that a member violated professional rules. They do not merely criticize him casually; they issue a formal statement of disapproval. That official condemnation is **censure**.
+
+### Memory Hook
+**Censure = serious official criticism**.
 
 ### Synonyms
 condemn, reprimand, rebuke, denounce
 
 ### Antonyms
-praise, commend, approve
+commend, praise, approve
 
-### Usage
-The board **censured** the executive for failing to disclose a conflict of interest. Although he was not removed from his position, the formal statement made clear that the board considered his conduct unacceptable. The censure also damaged his professional reputation.
+### Usage Paragraph
+The board **censured** the executive for failing to disclose a conflict of interest. Although he was not removed from his position, the formal statement made clear that his conduct was unacceptable. The **censure** damaged his professional reputation.
 
-### GRE note
-**Censure** is usually stronger and more formal than ordinary criticism.
+### GRE Connections / Distinctions
+**Commend** and **censure** are excellent opposites: formal praise versus formal disapproval.
 
 ---
 
 ## 7. Castigate
 
-**Pronunciation:** KAS-tuh-gayt  
-**Part of speech:** verb  
-**Meaning:** to criticize or punish very severely.  
-**Hindi:** बहुत कठोर आलोचना करना / कड़ी फटकार लगाना
+### Pronunciation
+**KAS-tuh-gayt**
 
-### Visual association
-Picture a newspaper columnist writing a furious article accusing officials of incompetence, dishonesty, and negligence.
+### English Meaning
+To criticize or reprimand very severely.
 
-### Memory hook
-**Castigate = catastrophic criticism.**
+### Hindi Meaning
+बहुत कठोर आलोचना करना / बुरी तरह फटकारना
+
+### Visual Association
+
+![Visual association for Castigate](https://placehold.co/1000x300/ffe0d6/5c1b00?text=CASTIGATE+%7C+Furious+Editorial+%2B+Fire+%2B+Severe+Criticism)
+
+Imagine a newspaper editorial attacking officials for ignoring repeated safety warnings. The tone is furious, severe, and unforgiving. That kind of harsh criticism is **castigation**.
+
+### Memory Hook
+**Castigate → catastrophic criticism**.
 
 ### Synonyms
 lambaste, berate, excoriate, condemn
@@ -189,26 +254,33 @@ lambaste, berate, excoriate, condemn
 ### Antonyms
 praise, commend, applaud
 
-### Usage
-The editorial **castigated** the government for ignoring repeated warnings about the unsafe bridge. Rather than describing the failure as a simple mistake, the writers portrayed it as evidence of systematic negligence. The language was deliberately severe and accusatory.
+### Usage Paragraph
+The editorial **castigated** the government for ignoring repeated warnings about the unsafe bridge. The writers did not describe the failure as a minor mistake; they portrayed it as evidence of systematic negligence. The language was deliberately severe and accusatory.
 
-### GRE note
-This is **harsh criticism**. If the tone is mild, **castigate** is probably too strong.
+### GRE Connections / Distinctions
+**Castigate** is much stronger than simply “criticize.” If the tone is mild or corrective, **castigate** is too intense.
 
 ---
 
 ## 8. Rebuke
 
-**Pronunciation:** ree-BYOOK  
-**Part of speech:** verb / noun  
-**Meaning:** to express sharp disapproval of someone’s behavior.  
-**Hindi:** डाँटना / कड़ी फटकार लगाना
+### Pronunciation
+**ree-BYOOK**
 
-### Visual association
-A teacher sharply tells a student to stop interrupting the class after several warnings.
+### English Meaning
+To express sharp disapproval of someone’s behavior.
 
-### Memory hook
-Think of a verbal **push-back**: a sharp correction.
+### Hindi Meaning
+डाँटना / कड़ी फटकार लगाना
+
+### Visual Association
+
+![Visual association for Rebuke](https://placehold.co/1000x300/f7eeee/4a1d1d?text=REBUKE+%7C+Teacher+Stops+Interruption+%2B+Sharp+Verbal+Correction)
+
+Imagine a student interrupting a class repeatedly. The teacher finally says, “That is enough. Stop interrupting others.” The correction is direct and sharp. That is a **rebuke**.
+
+### Memory Hook
+**Rebuke = sharp verbal push-back**.
 
 ### Synonyms
 reprimand, scold, admonish, reproach
@@ -216,26 +288,33 @@ reprimand, scold, admonish, reproach
 ### Antonyms
 praise, approve, encourage
 
-### Usage
-The chairperson **rebuked** the member for repeatedly interrupting the discussion. Her response was brief but unmistakably severe, and the room immediately became quiet. The rebuke was directed at his conduct rather than his overall character.
+### Usage Paragraph
+The chairperson **rebuked** the member for repeatedly interrupting the discussion. Her response was brief but unmistakably severe, and the room immediately became quiet. The **rebuke** targeted his inappropriate conduct rather than his entire character.
 
-### GRE note
-A **rebuke** is often a sharp, direct verbal expression of disapproval.
+### GRE Connections / Distinctions
+**Rebuke** is direct and sharp. It is harsher than **admonish**, but usually less extreme than **castigate**.
 
 ---
 
 ## 9. Admonish
 
-**Pronunciation:** ad-MON-ish  
-**Part of speech:** verb  
-**Meaning:** to warn or mildly reprimand someone, often with the intention of correcting behavior.  
-**Hindi:** चेतावनी देना / समझाते हुए डाँटना
+### Pronunciation
+**ad-MON-ish**
 
-### Visual association
-Imagine a parent calmly but firmly telling a child not to run across a busy road again.
+### English Meaning
+To warn or mildly reprimand someone, often to correct behavior.
 
-### Memory hook
-**Admonish = advise + warn.**
+### Hindi Meaning
+चेतावनी देना / समझाते हुए डाँटना
+
+### Visual Association
+
+![Visual association for Admonish](https://placehold.co/1000x300/fff8df/4d3700?text=ADMONISH+%7C+Parent+Warning+Child+%2B+Correction+%2B+Care)
+
+Imagine a parent firmly telling a child not to run across a busy road again. The parent is not simply angry; they are warning the child for their own safety. That warning-correction mixture is **admonishing**.
+
+### Memory Hook
+**Admonish = advise + warn**.
 
 ### Synonyms
 warn, caution, reprimand, counsel
@@ -243,55 +322,73 @@ warn, caution, reprimand, counsel
 ### Antonyms
 encourage, praise, approve
 
-### Usage
-The supervisor **admonished** the intern for repeatedly arriving late but also explained how punctuality affected the entire team. Rather than humiliating him, she used the conversation as a warning and an opportunity to correct the behavior.
+### Usage Paragraph
+The supervisor **admonished** the intern for repeatedly arriving late but also explained how punctuality affected the entire team. Rather than humiliating him, she treated the conversation as a warning and a chance to correct his behavior. The tone was firm but not cruel.
 
-### GRE note
-Compared with **rebuke**, **admonish** often carries a corrective or advisory quality and may be less harsh.
+### GRE Connections / Distinctions
+**Admonish** often has a corrective or advisory purpose. Compared with **rebuke**, it can feel less harsh and more instructive.
 
 ---
 
 ## 10. Reproach
 
-**Pronunciation:** ree-PROHCH  
-**Part of speech:** verb / noun  
-**Meaning:** to express disappointment or disapproval, often because someone has failed to meet an expectation.  
-**Hindi:** उलाहना देना / निराशा के साथ आलोचना करना
+### Pronunciation
+**ree-PROHCH**
 
-### Visual association
-A close friend says, “I expected better from you,” after you break a promise.
+### English Meaning
+To criticize with disappointment or moral disapproval.
 
-### Memory hook
-**Reproach feels personal: disappointment + criticism.**
+### Hindi Meaning
+उलाहना देना / निराशा के साथ आलोचना करना
+
+### Visual Association
+
+![Visual association for Reproach](https://placehold.co/1000x300/eeeeff/27275a?text=REPROACH+%7C+%22I+Expected+Better%22+%2B+Disappointment+%2B+Criticism)
+
+Imagine a close friend saying, “I expected better from you,” after you break an important promise. The emotion is not just anger; it is disappointment. That disappointed criticism is **reproach**.
+
+### Memory Hook
+**Reproach = disappointment + criticism**.
 
 ### Synonyms
-criticize, rebuke, chide, blame
+rebuke, blame, chide, criticize
 
 ### Antonyms
 praise, approve, compliment
 
-### Usage
-She **reproached** her colleague for taking credit for work that the entire team had completed. Her tone conveyed disappointment as much as anger because she had previously trusted him to behave fairly. The criticism therefore felt personal rather than merely procedural.
+### Usage Paragraph
+She **reproached** her colleague for taking credit for work that the entire team had completed. Her tone conveyed disappointment as much as anger because she had trusted him to behave fairly. The criticism felt personal rather than merely procedural.
 
-### GRE note
-Look for emotional disappointment or moral disapproval.
+### GRE Connections / Distinctions
+Look for emotional disappointment or moral expectation. **Reproach** is not always loud; it can be quiet but emotionally heavy.
 
 ---
 
-# Belittling, Mockery & Contempt
+# 🟣 Cluster 3: Belittling, Mockery and Contempt
+
+These words go beyond correction. They involve lowering someone’s value, mocking them, or treating them with contempt.
+
+---
 
 ## 11. Disparage
 
-**Pronunciation:** dih-SPAIR-ij  
-**Part of speech:** verb  
-**Meaning:** to speak about someone or something in a way that makes it seem less valuable or important.  
-**Hindi:** नीचा दिखाना / महत्व कम करके दिखाना
+### Pronunciation
+**dih-SPAIR-ij**
 
-### Visual association
-Imagine a coworker dismissing another person’s successful project by saying, “Anyone could have done that.”
+### English Meaning
+To speak about someone or something in a way that makes it seem less valuable or important.
 
-### Memory hook
-**Disparage = decrease someone’s apparent value.**
+### Hindi Meaning
+नीचा दिखाना / महत्व कम करके दिखाना
+
+### Visual Association
+
+![Visual association for Disparage](https://placehold.co/1000x300/f1f1f1/333333?text=DISPARAGE+%7C+%22Anyone+Could+Do+That%22+%2B+Belittling+Achievement)
+
+Imagine someone dismissing your successful project by saying, “What is so special? Anyone could have done that.” They are trying to reduce the value of your work. That is **disparaging** it.
+
+### Memory Hook
+**Disparage = decrease someone’s apparent value**.
 
 ### Synonyms
 belittle, denigrate, demean, deprecate
@@ -299,26 +396,33 @@ belittle, denigrate, demean, deprecate
 ### Antonyms
 praise, esteem, exalt
 
-### Usage
-The critic **disparaged** the young artist’s work as little more than a fashionable imitation. Instead of engaging seriously with the paintings, he repeatedly minimized their originality and technical skill. His remarks were clearly intended to lower readers’ estimation of the artist.
+### Usage Paragraph
+The critic **disparaged** the young artist’s work as little more than a fashionable imitation. Instead of seriously examining the paintings, he repeatedly minimized their originality and skill. His remarks were designed to lower readers’ estimation of the artist.
 
-### GRE note
-The key idea is **belittling**, not merely disagreeing.
+### GRE Connections / Distinctions
+**Disparage** means belittle, not merely disagree. It is close to **denigrate**, making the pair important for Sentence Equivalence.
 
 ---
 
 ## 12. Denigrate
 
-**Pronunciation:** DEN-ih-grayt  
-**Part of speech:** verb  
-**Meaning:** to unfairly criticize or belittle someone’s reputation or worth.  
-**Hindi:** बदनाम करना / नीचा दिखाना
+### Pronunciation
+**DEN-ih-grayt**
 
-### Visual association
-Picture a rival spreading comments that make a highly competent competitor seem incompetent.
+### English Meaning
+To unfairly criticize or belittle someone’s reputation, worth, or achievements.
 
-### Memory hook
-**Denigrate → drag someone’s reputation down.**
+### Hindi Meaning
+बदनाम करना / नीचा दिखाना
+
+### Visual Association
+
+![Visual association for Denigrate](https://placehold.co/1000x300/ede7f6/2d174d?text=DENIGRATE+%7C+Dragging+Reputation+Down+%2B+Unfair+Belittling)
+
+Imagine a rival trying to make a talented competitor look incompetent. Instead of proving his own ability, he keeps attacking the other person’s reputation. That is **denigrating** someone.
+
+### Memory Hook
+**Denigrate → drag reputation down**.
 
 ### Synonyms
 disparage, belittle, demean, defame
@@ -326,26 +430,33 @@ disparage, belittle, demean, defame
 ### Antonyms
 praise, honor, exalt
 
-### Usage
-Rather than defend his own proposal on its merits, the candidate tried to **denigrate** his opponent’s experience. He repeatedly suggested that her previous achievements were insignificant, even though the evidence showed otherwise. The tactic focused on reducing her credibility rather than improving his own argument.
+### Usage Paragraph
+Rather than defend his own proposal on its merits, the candidate tried to **denigrate** his opponent’s experience. He repeatedly suggested that her achievements were insignificant, even though the evidence showed otherwise. His strategy focused on reducing her credibility rather than strengthening his own case.
 
-### GRE note
-**Denigrate** and **disparage** are close GRE synonym partners.
+### GRE Connections / Distinctions
+**Denigrate** often targets reputation or worth. **Disparage** and **denigrate** are close GRE synonym partners.
 
 ---
 
 ## 13. Deride
 
-**Pronunciation:** dih-RYD  
-**Part of speech:** verb  
-**Meaning:** to mock or ridicule someone or something contemptuously.  
-**Hindi:** मज़ाक उड़ाना / उपहास करना
+### Pronunciation
+**dih-RYD**
 
-### Visual association
-Imagine a group laughing at an unconventional invention and calling its creator foolish before they have even tested it.
+### English Meaning
+To mock or ridicule someone or something contemptuously.
 
-### Memory hook
-**Deride → ridicule.** Both contain the idea of mockery.
+### Hindi Meaning
+मज़ाक उड़ाना / उपहास करना
+
+### Visual Association
+
+![Visual association for Deride](https://placehold.co/1000x300/fff0f6/5a0030?text=DERIDE+%7C+Laughing+Crowd+%2B+Ridicule+%2B+Mockery)
+
+Imagine an inventor presenting a strange idea while the audience laughs and calls it ridiculous. They are not just criticizing the idea; they are mocking it. That is **deriding** it.
+
+### Memory Hook
+**Deride → ridicule**.
 
 ### Synonyms
 mock, ridicule, jeer at, scoff at
@@ -353,26 +464,33 @@ mock, ridicule, jeer at, scoff at
 ### Antonyms
 respect, praise, admire
 
-### Usage
-Many experts initially **derided** the inventor’s proposal as unrealistic and absurd. They joked about the idea in public forums rather than examining the evidence seriously. Years later, a successful prototype forced several of those critics to reconsider their judgment.
+### Usage Paragraph
+Many experts initially **derided** the inventor’s proposal as unrealistic and absurd. They joked about it publicly instead of examining the evidence seriously. Years later, a successful prototype forced several critics to reconsider.
 
-### GRE note
-**Deride** specifically involves **mockery**, not just criticism.
+### GRE Connections / Distinctions
+**Deride** specifically involves mockery. If there is no laughter, ridicule, or contemptuous joking, another criticism word may fit better.
 
 ---
 
 ## 14. Scorn
 
-**Pronunciation:** skorn  
-**Part of speech:** verb / noun  
-**Meaning:** to regard or treat someone or something with strong contempt.  
-**Hindi:** तिरस्कार करना / घृणा और उपेक्षा से देखना
+### Pronunciation
+**skorn**
 
-### Visual association
-Imagine someone looking at an offer, pushing it away, and saying, “That is beneath me.”
+### English Meaning
+To regard or treat someone or something with strong contempt.
 
-### Memory hook
-**Scorn = contempt + rejection.**
+### Hindi Meaning
+तिरस्कार करना / घृणा और उपेक्षा से देखना
+
+### Visual Association
+
+![Visual association for Scorn](https://placehold.co/1000x300/eceff1/263238?text=SCORN+%7C+Cold+Look+%2B+%22Beneath+Me%22+%2B+Contempt)
+
+Imagine someone looking at an offer, pushing it away, and saying, “That is beneath me.” The person may not shout, but the contempt is obvious. That feeling is **scorn**.
+
+### Memory Hook
+**Scorn = contempt + rejection**.
 
 ### Synonyms
 disdain, despise, contemn
@@ -380,69 +498,121 @@ disdain, despise, contemn
 ### Antonyms
 respect, admire, esteem
 
-### Usage
+### Usage Paragraph
 The scholar **scorned** sensational explanations that lacked supporting evidence. He regarded such claims not merely as incorrect but as intellectually irresponsible. His contempt was obvious whenever the subject arose.
 
-### GRE note
-**Scorn** is about contempt. A person can scorn something without verbally criticizing it at length.
+### GRE Connections / Distinctions
+**Scorn** is about contempt. A person can scorn something silently; mockery is not required.
 
 ---
 
 ## 15. Vilify
 
-**Pronunciation:** VIL-uh-fy  
-**Part of speech:** verb  
-**Meaning:** to speak about someone in an extremely negative way and portray them as wicked or contemptible.  
-**Hindi:** बदनाम करना / किसी को बहुत बुरा या दुष्ट बताना
+### Pronunciation
+**VIL-uh-fy**
 
-### Visual association
-Imagine a political campaign poster portraying an opponent as a dangerous villain rather than merely criticizing their policies.
+### English Meaning
+To speak about someone in an extremely negative way and portray them as wicked or contemptible.
 
-### Memory hook
-**Vilify → villain.** To vilify someone is to make them look like a villain.
+### Hindi Meaning
+किसी को बदनाम करना / किसी को दुष्ट या बहुत बुरा साबित करना
+
+### Visual Association
+
+![Visual association for Vilify](https://placehold.co/1000x300/ffe6e6/5c0000?text=VILIFY+%7C+Turn+Someone+Into+A+Villain+%2B+Character+Attack)
+
+Imagine a political poster that does not simply disagree with an opponent’s policies. Instead, it portrays the opponent as dangerous, evil, and corrupt. That extreme character attack is **vilification**.
+
+### Memory Hook
+**Vilify → villain**. To vilify someone is to make them look like a villain.
 
 ### Synonyms
-defame, malign, slander, denounce
+malign, defame, slander, denounce
 
 ### Antonyms
-praise, glorify, commend
+praise, commend, glorify
 
-### Usage
-The pamphlet **vilified** the reformer as an enemy of society, attributing malicious motives to nearly everything he did. It did not simply disagree with his proposals; it attempted to destroy his character and reputation. This extreme portrayal made rational debate almost impossible.
+### Usage Paragraph
+The pamphlet **vilified** the reformer as an enemy of society, attributing malicious motives to nearly everything he did. It did not merely criticize his proposals; it attempted to destroy his character and reputation. This extreme portrayal made rational debate nearly impossible.
 
-### GRE note
-**Vilify** is much stronger than **criticize** or **disparage** because it attacks character and portrays someone as morally bad.
+### GRE Connections / Distinctions
+**Vilify** is stronger than **criticize**, **disparage**, or **denigrate**. It attacks character and portrays someone as morally bad.
 
 ---
 
-# Day 2 Mental Map
+# Day 2 Master Map
 
 ```text
-PRAISE
+🟢 PRAISE
 │
-├── COMMEND → measured/formal approval
-├── LAUD → strong/public praise
-├── ACCLAIM → enthusiastic public recognition
-├── EXTOL → enthusiastic, elaborate praise
-└── EULOGIZE → formal/high praise; often memorial context
+├── Commend   → measured/formal praise
+├── Laud      → strong/public praise
+├── Acclaim   → public recognition and approval
+├── Extol     → enthusiastic, elaborate praise
+└── Eulogize  → formal high praise, often in memorial speech
 
-CRITICISM
+🔴 CRITICISM
 │
-├── ADMONISH → warning + corrective criticism
-├── REPROACH → criticism with disappointment
-├── REBUKE → sharp direct disapproval
-├── CENSURE → strong/formal disapproval
-└── CASTIGATE → extremely harsh criticism
+├── Admonish  → warning + correction
+├── Reproach  → disappointed criticism
+├── Rebuke    → sharp direct disapproval
+├── Censure   → strong formal disapproval
+└── Castigate → extremely harsh criticism
 
-BELITTLING / CONTEMPT
+🟣 CONTEMPT / BELITTLING
 │
-├── DISPARAGE → make something seem less valuable
-├── DENIGRATE → belittle/reduce reputation
-├── DERIDE → mock/ridicule
-├── SCORN → regard with contempt
-└── VILIFY → portray as wicked; attack character
+├── Disparage → make something seem less valuable
+├── Denigrate → damage reputation or worth
+├── Deride    → mock or ridicule
+├── Scorn     → treat with contempt
+└── Vilify    → portray as wicked or villainous
 ```
 
-## The 15 words
+---
 
-**Laud · Extol · Acclaim · Commend · Eulogize · Censure · Castigate · Rebuke · Admonish · Reproach · Disparage · Denigrate · Deride · Scorn · Vilify**
+# Quick Revision Table
+
+| Word | Core Feeling | Fast Recall |
+|---|---|---|
+| Laud | Public high praise | Loud praise |
+| Extol | Enthusiastic praise | Extreme praise |
+| Acclaim | Public recognition | Critics applaud |
+| Commend | Formal approval | Manager praises |
+| Eulogize | Formal praise speech | Memorial speech |
+| Censure | Formal disapproval | Ethics board condemns |
+| Castigate | Severe criticism | Furious editorial |
+| Rebuke | Sharp correction | “Stop that.” |
+| Admonish | Warning correction | Parent warns child |
+| Reproach | Disappointed criticism | “I expected better.” |
+| Disparage | Belittle value | “Anyone could do that.” |
+| Denigrate | Lower reputation | Drag reputation down |
+| Deride | Mock | Laughing at idea |
+| Scorn | Contempt | “Beneath me.” |
+| Vilify | Character attack | Make villain |
+
+---
+
+# GRE Sentence Equivalence Pairs to Remember
+
+```text
+Laud ≈ Extol
+Disparage ≈ Denigrate
+Rebuke ≈ Reprimand
+Deride ≈ Ridicule
+Scorn ≈ Disdain
+Vilify ≈ Defame / Malign
+```
+
+---
+
+# Final Takeaway
+
+Do not memorize today’s words as 15 separate items. Learn them as an intensity ladder:
+
+```text
+Praise:      Commend → Laud → Acclaim → Extol → Eulogize
+Criticism:   Admonish → Reproach → Rebuke → Censure → Castigate
+Contempt:    Disparage → Denigrate → Deride → Scorn → Vilify
+```
+
+If you can place a word on this ladder, you can usually solve GRE Text Completion and Sentence Equivalence questions more confidently.
